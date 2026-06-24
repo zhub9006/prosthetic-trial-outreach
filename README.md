@@ -17,6 +17,7 @@ This project assesses the landscape of lower limb prosthetic clinical trials on 
 | File | Description |
 |---|---|
 | `README.md` | This file |
+| `PROSTHETIC_OUTREACH_REPORT.md` | **Comprehensive report** — Clinical trial gap analysis, Shirley Ryan AbilityLab site assessment, and 7 proposed outreach strategies |
 | `TRIAL_GAPS_AND_OUTREACH.md` | Full clinical trial gap analysis from ClinicalTrials.gov API data |
 | `SITE_ASSESSMENT_SHIRLEY_RYAN.md` | Detailed site accessibility assessment (500 m radius) + 7 outreach strategies + 10 next steps |
 | `OUTREACH_ASSESSMENT.md` | Community outreach assessment framework |
@@ -27,10 +28,6 @@ This project assesses the landscape of lower limb prosthetic clinical trials on 
 | `trial-gaps-and-outreach-strategies.md` | Trial gaps and strategies |
 | `TRIAL_OUTREACH_ASSESSMENT.md` | Trial outreach assessment |
 
-## GitHub Issues
-
-- **Issue #5**: [Shirley Ryan AbilityLab Site Assessment: Trial Gaps, Accessibility & Outreach Strategies](https://github.com/zhub9006/prosthetic-trial-outreach/issues/5) — Compact summary of trial gaps, site accessibility, outreach strategies, and priority actions
-
 ## ClinicalTrials.gov Data Summary
 
 | Analysis | Result |
@@ -39,12 +36,39 @@ This project assesses the landscape of lower limb prosthetic clinical trials on 
 | Sponsor distribution | INDUSTRY: 58 (13.7%), OTHER: 310 (73.5%), FED: 41 (9.7%), NIH: 2 (0.5%), NETWORK: 2 (0.5%), OTHER_GOV: 8 (1.9%), AMBIG: 1 (0.2%) |
 | Phase distribution | NA: 296 (70.1%), Unknown: 105 (24.9%), PHASE3: 5 (1.2%), PHASE4: 5 (1.2%), PHASE2: 5 (1.2%), EARLY_PHASE1: 4 (1.0%), PHASE1: 3 (0.7%) |
 
+## Key Gaps Identified
+
+1. **Sponsor Imbalance:** 73.5% academic/unclear sponsors vs. only 13.7% industry — lacks community outreach infrastructure
+2. **Phase Shortage:** 95% of studies are NA, Unknown, or early-phase — critical lack of high-quality evidence
+3. **Population Exclusion:** 7 underserved groups systematically excluded — women, low-income, elderly, non-English speakers, rural, wheelchair users, trauma amputees
+
+## Shirley Ryan AbilityLab Site Assessment
+
+| Factor | Rating | Notes |
+|--------|--------|-------|
+| Clinical Credibility | ⭐⭐⭐⭐⭐ | World-renowned rehab hospital |
+| Transit Access | ⭐⭐⭐⭐ | 5 Divvy stations, multiple CTA bus routes within 500m |
+| Support Amenities | ⭐⭐⭐⭐ | Pharmacies, banks, food options nearby |
+| Parking | ⭐⭐ | Paid parking is a barrier for low-income users |
+| Neighborhood | ⭐⭐⭐ | Affluent area may feel unwelcoming |
+| Overall | ⭐⭐⭐⭐ | Strong candidate with modifications needed |
+
+## Outreach Strategies Proposed
+
+1. **CHW Bridge Program** — Community Health Workers as trial navigators
+2. **Mobile Prosthetic Clinics** — On-site screening in underserved communities
+3. **Multicultural Outreach** — Faith-based partnerships, multilingual materials
+4. **Telehealth Screening** — Remote trial eligibility assessments
+5. **Peer Mentor Network** — Diverse prosthetic users as mentors
+6. **Transportation/Childcare Support** — Remove practical barriers
+7. **Data Equity Audit** — Audit trials for exclusionary criteria
+
 ## Data Sources
 
 - ClinicalTrials.gov API v2 (`/studies`, `/analysis`)
-- OpenStreetMap / OSM MCP (geocoding, nearby search, route directions)
-- Assessment date: 2025-06-23
+- OpenStreetMap / OSM MCP (geocoding, nearby search)
+- Assessment date: 2025-06-24
 
 ---
 
-*Project: Prosthetic Trial Outreach Initiative | Repo: github.com/zhub9006/prosthetic-trial-outreach*
+*Prosthetic Trial Outreach Initiative | github.com/zhub9006/prosthetic-trial-outreach*

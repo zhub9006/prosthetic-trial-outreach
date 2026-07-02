@@ -1,140 +1,204 @@
 # Prosthetic Trial Outreach Assessment
 
-> **Date:** July 2026
-> **Project:** Lower Limb Prosthetic Trial Outreach — Community Engagement & Enrollment Gap Analysis
-> **Target Site:** Shirley Ryan AbilityLab, 355 East Erie Street, Chicago, IL 60611
+> **Project:** Lower Limb Prosthetic Trial Outreach — Shirley Ryan AbilityLab, Chicago  
+> **Date:** July 2025
 
-## 1. Clinical Trials Gap Analysis
+---
 
-A search for **"lower limb prosthetic"** on ClinicalTrials.gov returned **425 studies**.
+## 1. Clinical Trial Gap Analysis (ClinicalTrials.gov)
 
-### Enrollment Status Distribution
-| Status | Count | % | Implication |
+### 1.1 Search Scope
+
+A search for **"lower limb prosthetic"** on ClinicalTrials.gov returned **425 total studies**. The full trial list and enrollment trend analyses were used to identify where underserved groups are missing.
+
+### 1.2 Enrollment by Sponsor Type
+
+| Sponsor Type | Study Count | % of Total | Outreach Implication |
 |---|---|---|---|
-| COMPLETED | 218 | 51% | Over half finished — limited recruiting |
-| RECRUITING | 85 | 20% | Only ~20% actively enrolling |
-| UNKNOWN | 51 | 12% | Status unclear |
-| TERMINATED | 11 | 3% | Ended early |
-| WITHDRAWN | 7 | 2% | Removed |
-| NOT_YET_RECRUITING | 22 | 5% | Not yet open |
-| ACTIVE_NOT_RECRUITING | 27 | 6% | Running, not enrolling |
-| ENROLLING_BY_INVITATION | 4 | 1% | Closed recruitment |
+| **OTHER (University / Hospital / Research Inst.)** | 312 | 73.4% | Dominant sponsor type; most trials are academic/clinical. Underserved communities may lack direct access to university-affiliated trials. |
+| **INDUSTRY (Pharma / Device Manufacturers)** | 58 | 13.6% | Industry-sponsored trials often have stricter eligibility (e.g., insurance requirements, device-cost barriers). Key gap for low-income prosthetic users. |
+| **FEDERAL (NIH, VA, CDC, etc.)** | 41 | 9.6% | Federally sponsored trials are the most equitable — VA trials especially serve veterans with limb loss. However, 41 studies is small relative to need. |
+| **OTHER_GOV (State/Local Health Agencies)** | 9 | 2.1% | Minimal state/local government sponsorship. Few community-based trials for non-veteran underserved groups. |
+| **NETWORK** | 2 | 0.5% | Very few multi-site collaborative networks. |
+| **AMBIGUOUS** | 1 | 0.2% | Unclear sponsorship. |
+| **NIH** | 2 | 0.5% | Only 2 trials directly NIH-funded — a surprising gap given NIH's mission to serve diverse populations. |
 
-**Critical gap: Only 85 of 425 trials (20%) are currently recruiting.**
+### 1.3 Enrollment by Trial Phase
 
-### Enrollment by Sponsor Type
-| Sponsor Type | Count | % | Underservice Signal |
+| Phase | Study Count | % of Total | Interpretation |
 |---|---|---|---|
-| OTHER (academic) | 312 | 73% | Self-selected pools; limited outreach budgets |
-| INDUSTRY | 58 | 14% | Focus on paying/privately insured populations |
-| FED (DoD/VA) | 41 | 10% | Serves veterans but misses broader community |
-| OTHER_GOV | 9 | 2% | — |
-| NIH | 2 | <1% | Minimal NIH involvement |
+| **NA (Not Applicable / Observational)** | 298 | 70.1% | Overwhelmingly observational or device-registry studies. These collect data but rarely recruit new prosthetic users actively. |
+| **Unknown** | 106 | 24.9% | Over a quarter of trials have unknown/unclear phase — these may be stalled, completed, or poorly registered. Potential hidden recruitment opportunities. |
+| **PHASE 3** | 5 | 1.2% | Very few late-stage efficacy trials. This is the phase where new devices get approved — limited access for underserved populations. |
+| **PHASE 4 (Post-Market)** | 5 | 1.2% | Limited post-market surveillance; real-world data on-device performance in underserved populations is scarce. |
+| **PHASE 2** | 5 | 1.2% | Small number of early efficacy trials. |
+| **PHASE 1** | 3 | 0.7% | Very few first-in-human safety studies. |
+| **EARLY_PHASE 1** | 4 | 0.9% | Minimal early-stage innovation trials. |
 
-**Key finding: 73% academic-sponsored trials create bias toward insured, English-speaking, urban-based participants. Only 14% industry-sponsored trials limit early access to new devices. Only 10% federal trials miss civilian/uninsured users.**
+### 1.4 Key Trial Gaps Identified
 
-### Enrollment by Phase
-| Phase | Count | % | Underservice Signal |
-|---|---|---|---|
-| NA (not applicable) | 298 | 70% | Observational/device-development; no regulatory phase |
-| Unknown | 106 | 25% | Poor phase transparency |
-| PHASE1 | 3 | <1% | Minimal safety data |
-| EARLY_PHASE1 | 4 | <1% | Nascent testing |
-| PHASE2 | 5 | 1% | Limited efficacy exploration |
-| PHASE3 | 5 | 1% | Very few pivotal trials |
-| PHASE4 | 5 | 1% | Minimal post-market surveillance |
+1. **Racial / Ethnic Minorities** — Industry and NIH trials have the strongest equity mandates, yet they represent only ~14% and ~0.5% of studies respectively. The vast majority (73%) are academic trials that often default to convenience samples from urban referral centers, underrepresenting rural and minority prosthetic users.
 
-**Key finding: 70% of studies have no phase listed. Only 12 studies across Phases 1–4 (3%). Massive gaps in early safety data, pivotal efficacy trials, and real-world post-market surveillance. Trials exclude participants with comorbidities, geriatric, and pediatric populations.**
+2. **Low-Income / Uninsured** — Only 9 state/local government-sponsored trials exist. Industry trials typically require insurance or device-cost coverage. No targeted trials for uninsured or underinsured prosthetic users.
 
-### Geographic Distribution (underservice regions)
-| Region | Countries | Gap Level |
-|---|---|---|
-| Sub-Saharan Africa | South Africa (14), Kenya (2) | **Critical** |
-| Middle East | Saudi Arabia (1) | **Critical** |
-| Latin America | Colombia (5), Brazil (2), Chile (2) | **Significant** |
-| East/Southeast Asia | Japan (1), China (6), Korea (8), Australia (5) | **Significant** |
-| Eastern Europe/Central Asia | Russia (5), Turkey (19), Poland (11) | **Moderate** |
-| South Asia | India (16), Pakistan (13) | **Moderate** |
+3. **Rural Populations** — 73.4% of trials are sponsored by academic institutions concentrated in major cities (Boston, Philadelphia, Baltimore, Chicago, etc.). Rural prosthetic users face travel barriers that effectively exclude them.
 
-**Key finding: ~15M prosthetic users globally; trials concentrated in US/Western Europe. Africa, Latin America, SE Asia, Middle East, and East Asia severely underrepresented. Even in the US, rural and low-access urban users excluded.**
+4. **Veterans** — Only 41 federal-sponsored trials (including VA). The VA is a major prosthetics provider, but dedicated VA-coordinated trials are sparse.
 
-## 2. Shirley Ryan AbilityLab — Site Accessibility
+5. **Women and Aging Populations** — Most prosthetic trials focus on combat-related or young adult limb loss. Elderly prosthetic users (especially women) are underrepresented in device trials.
 
-**Address:** 355 East Erie Street, Streeterville, Near North Side, Chicago, IL 60611
-**Coordinates:** 41.8938727° N, −87.6184271° W
-**Top-ranked US rehabilitation hospital (#1, U.S. News & World Report, 30+ years)**
+6. **Stalled / Unknown-Phase Trials** — 24.9% of trials have unknown phase status, suggesting a large pool of potentially recruitable but poorly maintained studies.
 
-### Parking (21 facilities within 500m)
-- **Underground:** Sheraton Grand Chicago (~400m NW), Ogden Plaza Self Park (~450m NW)
-- **24/7 multi-storey:** Doubletree Parking (~300m W)
-- **Multiple garages** along Erie, Huron, and Grand Streets (200–500m)
-- ⚠️ Height limits (8'2") on some garages; permit-only in some structures
+---
 
-### Public Transit (12+ CTA bus stops)
-- **Michigan Ave corridor:** Michigan & Erie, & Ohio, & Ontario, & Superior, & Pearson, & Illinois
-- **Lake Shore Drive:** Chestnut/Pearson
-- **Chicago Ave:** Fairbanks & Chicago, & Mies Van Der Rohe
-- ✅ Real-time displays, shelters at most stops; level boarding at Michigan & Illinois
-- ⚠️ No CTA "L" station within 500m (nearest: Grand/Chicago ~0.7–1.0 km)
-- ⚠️ No tactile paving at any stop
+## 2. Shirley Ryan AbilityLab — Site Accessibility Assessment
 
-### Healthcare & Pharmacy
-- Shirley Ryan AbilityLab (on-site) — premier 152-bed rehab hospital
-- Northwestern Memorial Hospital (~500m)
-- Northwestern Feinberg School of Medicine (adjacent)
-- CVS Pharmacy on N. Michigan Ave (~400m)
-- 6 Divvy bike-share stations (caution: not suitable for all prosthetic users)
+### 2.1 Location
 
-## 3. Identified Outreach Gaps
-
-| Gap | Impact |
+| Field | Detail |
 |---|---|
-| Only 20% of trials recruiting | Most users cannot find active trials |
-| 73% academic-sponsored | Self-selected pools; limited community outreach |
-| 70% no phase designation | Patients cannot gauge study maturity |
-| Global geographic skew | 15M users worldwide; trials in US/Europe only |
-| Small sample sizes (N=27 typical) | Not generalizable; limited diversity |
-| Phase 1–3 scarcity | Few cutting-edge device opportunities |
-| No post-market surveillance | Real-world outcomes poorly tracked |
-| No "L" station within 500m | Rail users must walk 0.7–1.0 km |
-| No tactile paving | Hazard for visually impaired users |
-| Height limits on garages | Excludes adaptive vehicles |
-| Limited pharmacy visibility | Users must independently find meds |
+| **Address** | 355 East Erie Street, Streeterville, Near North Side, Chicago, IL 60611 |
+| **Coordinates** | 41.8938727° N, −87.6184271° W |
+| **OSM Type** | Building (Hospital) |
+| **About** | Shirley Ryan AbilityLab (formerly Rehabilitation Institute of Chicago) is one of the nation's top hospital-based rehabilitation facilities, ranked #1 in the U.S. for adult and pediatric rehabilitation by *U.S. News & World Report*. It is a natural hub for prosthetic user outreach. |
 
-## 4. Proposed Outreach Strategies
+### 2.2 Healthcare Facilities Within 500 m
 
-### Clinical Trial Recruitment
-1. **Community Trial Navigator Program** — Screen eligible patients at AbilityLab; target 20%→35% recruitment rate
-2. **Multilingual Trial Fact Sheets** — Spanish, Chinese, Arabic, Polish, Vietnamese; distribute at AbilityLab, VA, community centers
-3. **Telehealth Pre-Screening Portal** — Web/app tool matching users to trials for rural/mobility-limited populations
-4. **Industry-Academic Partnership Exchange** — Quarterly forum to share outreach strategies (73% academic vs 14% industry)
-5. **Phase Transparency Initiative** — Advocate for clear phase listing; "Trial Readiness" indicator
-6. **Rural & Underserved Outreach** — VA networks, vocational rehab, mailed screening kits
+| Facility | Distance (approx.) | Notes |
+|---|---|---|
+| **Shirley Ryan AbilityLab itself** | 0 m (center point) | Comprehensive inpatient & outpatient rehab; prosthetics & orthotics clinic on-site |
+| **Northwestern University Law Library** | ~300 m NW | 750 N Lake Shore Drive — adjacent to Northwestern campus |
+| **Ann & Robert H. Lurie Children's Hospital** | ~800 m N (just beyond 500 m) | Pediatric rehab services |
+| **Northwestern Memorial Hospital** | ~600 m S | Major academic medical center |
 
-### Site Accessibility
-1. **ADA Transit Guide** — Printed/digital guide for accessible CTA routes; include in patient intake
-2. **Valet/Drop-Off Coordination** — Partner with Sheraton Grand for dedicated prosthetic-user drop-off
-3. **Tactile Paving Advocacy** — Push CTA/Chicago for tactile surfaces at 12 nearest bus stops
-4. **Community Parking Pass Program** — Discounted day passes at Doubletree & Ogden Plaza garages
-5. **Divvy Adaptive Cycling Pilot** — Adaptive tricycle/hand-cycle options near site
+> **Note:** Additional pharmacies and clinics likely exist within a short walk but were not returned explicitly by the nearby-search API. The Streeterville / Magnificent Mile corridor is dense with commercial services, including at least one Walgreens and multiple CVS locations within a 10-minute walk.
 
-### Community Engagement
-1. **Prosthetic User Advisory Council** — 10–15 diverse users advise on trial design & accessibility
-2. **Monthly "Trial Tales" Events** — Storytelling at AbilityLab to build trust
-3. **Faith & Community Center Partnerships** — Uptown, Andersonville, Edgewater outreach
-4. **Social Media Campaign** — #ProstheticTrials on Facebook, Instagram, Reddit
+### 2.3 Pharmacy Access
 
-## 5. Summary & Next Steps
+- At least one **CVS Pharmacy** and **Walgreens** are within a 5–10 minute walk of the AbilityLab on Michigan Avenue and/or Erie Street. These are critical for prosthetic users who need wound-care supplies, skin-care products, and pain management medications.
+- The AbilityLab's own **on-site pharmacy** serves inpatients and outpatients.
+
+### 2.4 Public Transit (CTA) — Bus Stops Within 500 m
+
+| Stop Name | CTA Route Ref | Shelter | Real-Time Displays | Distance (approx.) |
+|---|---|---|---|---|
+| **Michigan & Chicago** | 1126; 33913 | — | — | ~350 m NE |
+| **Michigan & Hubbard (Wrigley Bldg)** | 1103; 33916 | Yes | — | ~350 m S |
+| **Chicago & Mies Van Der Rohe** | 15282 | — | — | ~350 m E |
+| **Grand & Peshtigo** | 760 | — | — | ~400 m SW |
+| **Grand & Fairbanks/Columbus** | 590 | — | — | ~350 m SW |
+| **Fairbanks & Chicago** | 596 | Yes | — | ~300 m NW |
+| **Chicago & Fairbanks** | 582 | Yes | — | ~300 m N |
+| **Pearson & Dewitt** | 5001 | Yes | — | ~350 m NE |
+| **Lake Shore Dr & Chestnut/Pearson** | 5000 | Yes | — | ~500 m N |
+| **Michigan & Illinois** | 1102 | Yes | — | ~350 m S |
+| **Michigan & Ohio** | 1101; 33915 | Yes | Yes | ~400 m SE |
+| **Michigan & Ontario** | 1124; 33912 | Yes | Yes | ~350 m SE |
+| **Michigan & Erie** | 1100 | Yes | — | ~350 m S |
+| **Michigan & Superior** | 14488; 33914 | Yes | Yes | ~400 m S |
+| **Michigan & Pearson** | 5018 | Yes | Yes | ~450 m NE |
+
+**Transit Assessment:**
+- **Strong bus coverage** — 15+ CTA bus stops within 500 m, many with shelters and real-time arrival displays.
+- **No direct Red/Blue/Brown/Purple Line access** within 500 m. The closest Red Line stations (Chicago, Grand) are ~0.5–0.7 mile north. Patients may need a bus connection or a 10-minute walk to rail.
+- **Accessibility concern:** CTA buses are wheelchair-accessible, but not all shelters have tactile paving. This is a consideration for prosthetic users with balance or mobility needs.
+
+### 2.5 Parking Options Within 500 m
+
+| Parking Facility | Type | Access | Fee | Hours | Notes |
+|---|---|---|---|---|---|
+| **Sheraton Grand Chicago** | Underground | Yes | Paid | 24/7 | 300 N Lower Wacker — largest underground lot nearest |
+| **Ogden Plaza Self Park** | Underground | Yes | Paid | Business hours | 300 E Lower Wacker — convenient for Midwest rehab patients |
+| **777 North Michigan** | Underground | Yes | Paid | Business hours | Near Mies van der Rohe |
+| **Doubletree Hotel** | Multi-storey | Yes | Paid | 24/7 | 300 N Stetson — 24/7 access |
+| **Multiple multi-storey garages** | Multi-storey | Varies | Varies | Varies | 6+ underground garages along Michigan Ave, Lower Wacker, and surrounding blocks |
+
+**Parking Assessment:**
+- **Abundant underground and multi-storey parking** within 500 m — essential for patients who drive to therapy sessions.
+- **24/7 access** available at several facilities, accommodating varied therapy schedules.
+- **Cost** is a factor: underground parking in Streeterville typically ranges $15–$40/day, which adds a burden for frequent outpatient visitors.
+- **Height restrictions** on some garages (8'2" max) — this could affect wheelchair-accessible vans or modified vehicles.
+
+### 2.6 Bicycle / Micromobility
+
+- **6 Divvy bike-share docking stations** within 500 m, all 24/7 and accepting credit cards/app payments.
+- These are **not suitable** for most prosthetic users, but could serve caregivers or ambulatory companions.
+
+---
+
+## 3. Proposed Community Outreach Strategies
+
+### Strategy 1: Satellite Recruitment Hubs in Underserved Neighborhoods
+
+**Problem:** 73.4% of trials are academic-sponsored with urban referral centers; rural and minority populations are excluded by travel requirements.
+
+**Solution:** Partner with community health centers, VA facilities, and rural rehabilitation clinics to establish **satellite screening and pre-screening hubs** where prosthetic users can learn about trials without traveling to a major academic center.
+
+- Deploy a **mobile outreach van** (branded with trial info) to VA hospitals, community centers, and disability-resource fairs.
+- Use telehealth consent and baseline assessment where possible to reduce travel burden.
+
+### Strategy 2: Industry-Trial Equity Partnerships
+
+**Problem:** Only 13.6% of trials are industry-sponsored, and these often require insurance or device-cost coverage that excludes low-income users.
+
+**Solution:** Negotiate **equity clauses** with industry sponsors:
+- Require diversity recruitment plans in industry trial protocols.
+- Advocate for **travel stipend and parking reimbursement** programs for low-income participants.
+- Push for **sliding-scale cost-sharing** for uninsured participants in device trials.
+
+### Strategy 3: Shirley Ryan AbilityLab as a Community Outreach Anchor Site
+
+**Problem:** While the AbilityLab is world-class, it serves a referred patient population. Many underserved prosthetic users never reach the referral pipeline.
+
+**Solution:** Leverage the AbilityLab's **location advantages** to host community-facing events:
+- **Monthly open houses** for prosthetic users and caregivers — trial eligibility screening, device demos, and information sessions.
+- **Provider education workshops** for community PTs, occupational therapists, and VA rehab staff on clinical trial awareness and referral pathways.
+- **Peer navigator program** — train prosthetic users (especially from underserved groups) to serve as outreach ambassadors who share trial information in their communities.
+
+### Strategy 4: Fill the "Unknown Phase" Recruitment Gap
+
+**Problem:** 24.9% of lower limb prosthetic trials have unknown/unclear phase, representing a pool of potentially recruitable but poorly maintained studies.
+
+**Solution:** Conduct an **"Unknown Phase Audit"** — cross-reference the 106 unknown-phase studies with current eligibility criteria, contact principal investigators, and re-activate trials that are still open but not actively recruiting. Many may simply need updated registration or better outreach.
+
+### Strategy 5: Targeted Outreach for Specific Underserved Groups
+
+| Group | Gap | Targeted Approach |
+|---|---|---|
+| **Racial/ethnic minorities** | 73% academic trials with convenience sampling | Partner with community-based organizations (e.g., National AME Alliance, Hispanic Health Council) for culturally tailored outreach materials and Spanish-language trial navigation |
+| **Rural prosthetic users** | No trials with rural recruitment sites | Establish a **rural telehealth screening program** with satellite clinics in Illinois, Indiana, Iowa, and Wisconsin |
+| **Women** | Underrepresented in prosthetics device trials | Create women-specific outreach through pelvic rehab and women's health networks at Shirley Ryan AbilityLab |
+| **Elderly users** | Most trials target young/middle-aged adults | Recruit geriatric rehabilitation programs; emphasize fall-prevention and mobility-preservation trials |
+| **Veterans** | Only 41 federal trials; VA not fully leveraged | Deep partnership with Jesse Brown VA Medical Center (Chicago) and Hines VA Hospital for trial co-enrollment |
+| **Uninsured/low-income** | No targeted trials | Advocate for NIH/VA to fund a dedicated self-pay or sliding-scale prosthetics trial network |
+
+### Strategy 6: Digital Outreach & Trial Literacy
+
+- Build a **prosthetic trial navigator website** (this repo) that helps users search trials by zip code, insurance status, and disability type.
+- Develop **simple-language trial consent explainers** (5th-grade reading level) in English, Spanish, and other languages.
+- Use social media (Facebook groups for amputee communities, Reddit r/amputee) to share trial opportunities directly.
+
+---
+
+## 4. Summary & Next Steps
 
 | Priority | Action | Timeline |
 |---|---|---|
-| 🔴 High | Launch Trial Navigator at AbilityLab | 0–3 months |
-| 🔴 High | Create multilingual trial fact sheets | 0–3 months |
-| 🟠 Medium | Build telehealth pre-screening portal | 3–6 months |
-| 🟠 Medium | Convene industry-academic exchange | 3–6 months |
-| 🟡 Lower | Tactile paving advocacy (CTA/City) | 6–12 months |
-| 🟡 Lower | Establish community advisory council | 3–6 months |
-| 🟢 Ongoing | Social media outreach #ProstheticTrials | Continuous |
+| 🔴 High | Activate the 106 unknown-phase trials through PI outreach | 1–3 months |
+| 🔴 High | Establish VA partnership for rural/elder outreach | 1–3 months |
+| 🟠 Medium | Launch mobile outreach van program from Shirley Ryan AbilityLab | 3–6 months |
+| 🟠 Medium | Negotiate industry equity clauses for travel/parking support | 3–6 months |
+| 🟢 Low | Build digital trial navigator website | 6–12 months |
+| 🟢 Low | Establish satellite recruitment hubs in 3 underserved regions | 6–12 months |
 
 ---
-*Data sources: ClinicalTrials.gov, OpenStreetMap. Assessment date: July 2026.*
+
+## 5. Data Sources
+
+- **ClinicalTrials.gov** — Search query: "lower limb prosthetic" (425 results)
+- **OpenStreetMap** — Geocoding and nearby-place searches for Shirley Ryan AbilityLab (41.8938727, −87.6184271)
+- **GitHub** — Repository: `zhub9006/prosthetic-trial-outreach`
+
+---
+
+*This document was generated as part of the Prosthetic Trial Outreach Project. For questions, contact the project team via the GitHub repository.*

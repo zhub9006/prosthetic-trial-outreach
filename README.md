@@ -18,6 +18,7 @@ This project assesses the landscape of lower limb prosthetic clinical trials on 
 | File | Description |
 |---|---|
 | `README.md` | This file |
+| `RAW_FINDINGS_THIS_SESSION.md` | **Session-specific raw data** (2025-06-29) — ClinicalTrials.gov trial details, geocoding, nearby amenities (healthcare, pharmacy, transit, parking), and site suitability analysis |
 | `CONSOLIDATED_ASSESSMENT.md` | **Consolidated master report** — trial gaps, site accessibility, and 7 outreach strategies |
 | `CONSOLIDATED_OUTREACH_ASSESSMENT.md` | **New in Jun 2026** — fully updated consolidated report with 8 strategies, next-steps roadmap, and data-collection appendix |
 | `PROSTHETIC_OUTREACH_REPORT.md` | Comprehensive report — clinical trial gap analysis, Shirley Ryan AbilityLab site assessment, and 7 proposed outreach strategies |
@@ -60,7 +61,9 @@ This project assesses the landscape of lower limb prosthetic clinical trials on 
 | **Quick overview of key findings** | 📄 [CONSOLIDATED_ASSESSMENT.md](CONSOLIDATED_ASSESSMENT.md) |
 | **Clinical trial detail** | 📄 [PROSTHETIC_TRIAL_ASSESSMENT.md](PROSTHETIC_TRIAL_ASSESSMENT.md) |
 | **Site/accessibility detail** | 📄 [SITE_ASSESSMENT_SHIRLEY_RYAN.md](SITE_ASSESSMENT_SHIRLEY_RYAN.md) |
-| **Community outings/transit/data** | GitHub Issue #8: Shirley Ryan AbilityLab — Local Amenities & Transit Guide |
+| **Session-specific raw findings (this session)** | 📄 [RAW_FINDINGS_THIS_SESSION.md](RAW_FINDINGS_THIS_SESSION.md) |
+| **Community amenities & transit guide** | 📖 [GitHub Issue #8](https://github.com/zhub9006/prosthetic-trial-outreach/issues/8): Shirley Ryan AbilityLab — Local Amenities & Transit Guide |
+| **Session raw findings tracking** | 📖 [GitHub Issue #9](https://github.com/zhub9006/prosthetic-trial-outreach/issues/9): Raw Findings This Session data |
 
 ## Key Gaps Identified
 

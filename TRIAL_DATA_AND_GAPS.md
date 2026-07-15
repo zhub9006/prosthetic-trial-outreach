@@ -1,82 +1,75 @@
-# Clinical Trial Gaps & Enrollment Data
+# Trial Data Summary — 10 Key Lower Limb Prosthetic Trials
 
-**Source:** ClinicalTrials.gov API v2 (July 2026)  
-**Condition:** Lower limb prosthetic
+## RECRUITING / ACTIVE TRIALS
 
----
+### 1. NCT06160882 — Powered Prosthesis for TF Osseointegration Recipients
+- **Status:** RECRUITING | **Sponsor:** Shirley Ryan AbilityLab (OTHER) | **PI:** Levi Hargrove | **Est. N:** 6
+- **Interventions:** Powered prosthesis via OI/TMR | **Location:** Chicago, IL (SRAL)
+- **Key Gap:** OI/TMR is elective and expensive; excludes socket-only users; no financial support
 
-## 1. Sponsor Type Distribution (104 trials)
+### 2. NCT06194838 — Non-Powered vs Powered Prosthetic Knees (K2-level)
+- **Status:** RECRUITING | **Sponsor:** Liberating Technologies (INDUSTRY) | **PI:** Jennifer Johansson
+- **Design:** Randomized crossover, 3-condition take-home | **Interventions:** Össur Power Knee, Reboocon Intuy, Össur OFM-2
+- **Key Gap:** K2 only; no equity provisions; no transport support
 
-| Sponsor Type | Count | % | Risk Factor |
-|---|---|---|---|
-| OTHER (academic/universities) | 64 | 61.5% | Limited scale; university-specific eligibility |
-| INDUSTRY | 25 | 24.0% | May exclude complex cases; profitability-driven |
-| FED (federal agencies) | 12 | 11.5% | Bureaucratic delays; narrow eligibility |
-| OTHER_GOV | 2 | 1.9% | Minimal |
-| NIH | 1 | 1.0% | Only 1 NIH-funded trial |
+## COMPLETED TRIALS
 
----
+### 3. NCT05407545 (MOKI-B) — Motorised Prosthetic Knee
+- **Status:** COMPLETED | **Sponsor:** VUB / Össur | **N:** 7 | **Location:** Brussels, Belgium
+- **Eligibility:** K3-K4, unilateral TF, age 18-75 | **Key Gap:** N=7; EU-only; K3-4 only (luxury barrier)
 
-## 2. Phase Distribution (104 trials)
+### 4. NCT07215442 — Skin Temperature & Prosthetic Thermoregulation
+- **Status:** COMPLETED | **Sponsor:** VA Puget Sound (FED) | **PI:** Glenn Klute | **N:** 56
+- **Design:** Factorial; thermode at 4 temperatures | **Location:** Seattle, WA
+- **Key Gap:** Excluded non-diabetic amputees; no powered prosthesis data
 
-| Phase | Count | % | Implication |
-|---|---|---|---|
-| NA | 76 | 73.1% | Device/procedure — Phase I/II not designated |
-| Unknown | 22 | 21.2% | Transparency/discoverability problem |
-| Phase 3 | 2 | 1.9% | Pipeline bottleneck — only 2 late-stage trials |
-| Phase 4 | 2 | 1.9% | Very few post-market studies |
-| Phase 2 | 2 | 1.9% | Limited early efficacy evidence |
-| Phase 1 | 0 | 0% | No Phase 1 trials — early safety gap |
+### 5. NCT07519746 (PROINGA) — Satisfaction & QoL in Gaza
+- **Status:** COMPLETED | **Sponsor:** Yeditepe/Al-Azhar | **N:** 128 | **Observational**
+- **Location:** Gaza | **Key Gap:** Conflict-zone only; no intervention; IPD withheld
 
----
+### 6. NCT06717938 — Low-Income prosthesis trial (ref)
+- **Status:** 404 — may have been removed/re-registered | Only 1 trial targeting low-income in broad scan
 
-## 3. Key Trials
-
-| NCT ID | Title | Status | Sponsor | Enrollment |
+## SPONSOR ANALYSIS (91-study dataset)
+| Type | Count | Est. Total | % | Limitation |
 |---|---|---|---|---|
-| NCT06160882 | Powered Prosthesis for Osseointegration Recipients | RECRUITING | Academic | — |
-| NCT01942798 | WiiNWalk — WiiFit for Older Adult Amputees | COMPLETED | U. of British Columbia | 72 |
-| NCT07215442 | Thermal Comfort & Prosthetic Limb Use | COMPLETED | Academic | — |
-| NCT07519746 | — | COMPLETED | Academic | — |
+| OTHER (Academic) | 54 | 313 | 73% | No profit motive; limited underserved reach |
+| INDUSTRY | 22 | 59 | 14% | Commercial; K3-4 only |
+| FEDERAL | 12 | 41 | 10% | VA-focused; veteran-only |
+| OTHER_GOV | 2 | small | 2% | Limited |
+| NIH | 1 | ~2 | 0.5% | **GAP: virtually zero NIH prosthetics trials** |
 
----
+## PHASE ANALYSIS
+| Phase | Count (91) | Est. Total | % | Implication |
+|---|---|---|---|---|
+| NA (Device) | 67 | 299 | 74% | No formal phases; single-site device evaluations |
+| Unknown | 20 | 107 | 22% | Poorly registered |
+| Phase 2 | 2 | ~5 | 1% | Almost no efficacy trials |
+| Phase 3 | 1 | ~5 | 1% | **Only 1 Phase 3 globally — no pipeline** |
+| Phase 4 | 1 | ~5 | 1% | **Only 1 Phase 4 — post-market near-absent** |
 
-## 4. Underserved Population Gap Summary
-
-| Population Group | Recruitment | Consent | Geographic | Funding | Protocol | Retention |
-|---|---|---|---|---|---|---|
-| Low-income / Uninsured | 🔴 | 🔴 | 🟠 | 🔴 | 🟠 | 🔴 |
-| Rural U.S. | 🟠 | 🟠 | 🔴 | 🟠 | 🟠 | 🔴 |
-| Hispanic / Latino | 🔴 | 🔴 | 🟠 | 🟠 | 🔴 | 🟠 |
-| African American / Black | 🔴 | 🔴 | 🟠 | 🟠 | 🔴 | 🔴 |
-| Women | 🔴 | 🟠 | 🟢 | 🟠 | 🔴 | 🟠 |
-| Children / Adolescents | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟠 |
-| Elderly (75+) | 🟠 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 |
-| Global South | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| Transgender / Gender-diverse | 🟠 | 🔴 | 🟢 | 🟠 | 🔴 | 🟠 |
-| Cognitive / Intellectual disab. | 🟠 | 🔴 | 🔴 | 🟠 | 🔴 | 🔴 |
-
-> 🔴 = Near-Complete Exclusion (0–20%) | 🟠 = Partial Access (20–50%) | 🟢 = Minor Barriers (50–80%)
-
----
-
-## 5. By Status Breakdown (427-study broad scan)
-
-| Status | Count | % |
+## GEOGRAPHIC EQUITY (>88% in US/EU)
+| Country | Trials | % |
 |---|---|---|
-| RECRUITING | 86 | 20.1% |
-| NOT_YET_RECRUITING | 23 | 5.4% |
-| ACTIVE_NOT_RECRUITING | 28 | 6.6% |
-| ENROLLING_BY_INVITATION | 3 | 0.7% |
-| COMPLETED | 218 | 51.1% |
-| UNKNOWN | 51 | 12.0% |
-| TERMINATED/WITHDRAWN | 12 | 2.8% |
+| US | 164 | 38% |
+| France | 24 | 6% |
+| Netherlands | 10 | 2% |
+| Spain | 7 | 2% |
+| Canada | 7 | 2% |
+| UK | 6 | 1% |
+| Belgium | 5 | 1% |
+| + ~80 nations | 0 | 0% |
 
----
-
-## Data Sources
-
-- **ClinicalTrials.gov API v2** (July 2026)
-- **Sponsor analysis:** `analyze_trends` by sponsor type (104 studies)
-- **Phase analysis:** `analyze_trends` by phase (104 studies)
-- **Site audit:** OpenStreetMap 500 m radius around Shirley Ryan AbilityLab
+## UNDERSERVED NEEDS GAPS
+| Group | Recruitment | Consent | Geographic | Funding | Protocol | Retention |
+|---|---|---|---|---|---|---|
+| Low-income/Uninsured | 🔴 | 🔴 | 🟡 | 🔴 | 🟢 | 🔴 |
+| Rural US | 🟡 | 🟡 | 🔴 | 🟡 | 🟡 | 🔴 |
+| Hispanic/Latino | 🔴 | 🔴 | 🟡 | 🟡 | 🔴 | 🟡 |
+| African American | 🔴 | 🔴 | 🟡 | 🟡 | 🔴 | 🟡 |
+| Women | 🔴 | 🟡 | 🟡 | 🟡 | 🔴 | 🟡 |
+| Children | 🟡 | 🔴 | 🔴 | 🔴 | 🔴 | 🟡 |
+| Elderly 75+ | 🟡 | 🟡 | 🟡 | 🟡 | 🔴 | 🔴 |
+| Global South | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Transgender/GD | 🟡 | 🔴 | 🟡 | 🟡 | 🔴 | 🟡 |
+| Cognitive disab. | 🟡 | 🔴 | 🔴 | 🟡 | 🔴 | 🔴 |

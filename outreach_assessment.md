@@ -10,10 +10,10 @@
 |---|--------|-------|---------|-------|--------|------------|-------------|
 | 1 | NCT06243549 | Personalisation of Prosthetic Care for Lower-Limb Amputees | University of Bath (UK) | Observational | Active, not recruiting | 30 (est.) | Bristol, Portsmouth (UK) |
 | 2 | NCT04904003 | Prosthetic Use, Mobility and Daily Functioning (ProMob) | Oslo Metropolitan University (NO) | NA | Completed | 60 (actual) | Oslo, Halden (Norway) |
-| 3 | NCT05287646 | Quantifying Bone & Skin Movement in Residual Limb (DSX) | VA Office of Research & Development (FED) | NA | Recruiting | 21 (est.) | New York, NY (VA NY Harbor) |
+| 3 | NCT05287646 | Quantifying Bone & Skin Movement in Residual Limb (DSX) | VA Office of Research & Development | NA | Recruiting | 21 (est.) | New York, NY (VA NY Harbor) |
 | 4 | NCT07215442 | Skin Temperature Perception & Prosthetic Thermoregulation | VA Puget Sound (FED) | NA | Completed | 56 (actual) | Seattle, WA |
 | 5 | NCT03634124 | Thrombin Generation & DVT Post Prosthetic Orthopedic Surgery | CHU Nimes (France) | Phase 3 | Completed | 146 (actual) | Nimes, France |
-| 6 | NCT03046394 | Comparison Between Three Types of Prosthetic Feet (ProSto) | University Rehabilitation Institute, Slovenia | NA | Completed | 1 (actual) | Ljubljana, Slovenia |
+| 6 | NCT03046394 | Comparison Between Three Types of Prosthetic Feet (ProSto) | Univ. Rehabilitation Institute, Slovenia | NA | Completed | 1 (actual) | Ljubljana, Slovenia |
 | 7 | NCT01846845 | Evaluation of a Novel Transfemoral Prosthetic Socket System | Ohio Willow Wood (INDUSTRY) | NA | Unknown | 8 (est.) | Columbus & Mount Sterling, OH |
 | 8 | NCT04038580 | Comparative Assessment of Transfemoral Prosthetic Sockets | University of Michigan | NA | Completed | 29 (actual) | Chicago, IL & Ann Arbor, MI |
 | 9 | NCT07491614 | Prosthetic Socket Fit Testing System | University of Washington | NA | Not yet recruiting | 18 (est.) | Seattle, WA |
@@ -48,198 +48,172 @@
 | Underserved Group | Evidence of Gap | Recommended Action |
 |---|---|---|
 | **Racial/Ethnic Minorities** | Most trials list "ALL" for sex; race/ethnicity data rarely reported. University of Michigan trial showed 22 White, 3 Black, 1 NH/OPI out of 29 participants. | Mandate demographic diversity targets in trial design; partner with community clinics in underserved ZIP codes. |
-| **Rural Populations** | Zero trials located in rural settings; all in major urban/academic hubs. | Offer telehealth follow-up visits; mobile assessment units; satellite recruitment sites in rural VA facilities. |
-| **Women** | Michigan trial: 4 women / 29 total (14%). ProSto trial: MALE only. ProMob: "All" but no data. | Stratify enrollment targets by sex; deploy gender-matched recruiters; ensure female-friendly scheduling. |
-| **Elderly (65+)** | VA thermoregulation study caps age at 70. Many trials exclude based on comorbidities common in elderly. | Remove arbitrary upper age caps; study age-related prosthetic adaptation specifically. |
-| **Bilateral Amputees** | All 10 reviewed trials exclude bilateral amputees. | Include bilateral amputees in eligibility; study unique socket-fit and mobility challenges. |
-| **Diabetes-Related Amputees** | Only VA thermoregulation study разбирает diabetes sub-group; no dedicated diabetes-prosthetic trials found. | Prioritize diabetes-related amputation trials; partner with endocrinology clinics. |
-| **Non-English Speakers** | No multilingual materials observed in any trial protocol. | Translate consent forms & study materials into Spanish, Polish, Chinese; hire bilingual coordinators. |
-| **Low Health Literacy** | Informed consent documents at college reading level in most trials. | Use visual aids, video consent, teach-back methods; create 6th-grade reading level summaries. |
-| **Veterans (non-VA)** | Only 12 federal/VA trials; many veterans use community healthcare. | Partner with Vet Centers; place QR-code flyers in VA waiting rooms that link to community trials. |
-| **Congenital/Young Amputees** | ProMob requires >12 months post-amputation; ProSto requires >5 years; congenital cases excluded. | Develop pediatric and congenital-specific trial tracks; partner with children's hospitals. |
+| **Geographic Access** | 64/104 studies are international (UK, Norway, Slovenia, France, Denmark); only 3 US academic sites (NY, Seattle x2, Michigan). Overweighting of Northeast/Midwest urban academic hubs. | Expand to community hospitals in South/West Chicago, rural IL/IN/OH. Use SRAL as Midwest anchor. |
+| **Socioeconomic** | VA studies serve veterans well (12 trials) but miss non-veteran low-income uninsured. Industry trials (25) require private insurance. No uninsured-focused trials found. | Partner with Federally Qualified Health Centers (FQHCs) for screening. Offer no-cost trial participation navigators. |
+| **Age (Pediatric)** | Minimum age almost universally 18+. No pediatric-specific prosthetic trials identified. | Advocate for pediatric sub-studies within existing frameworks. |
+| **Diabetes Comorbidity** | Diabetes is a leading cause of lower-limb amputation, yet only NCT07215442 separated diabetic vs. non-diabetic. No dedicated diabetes-prosthetics trials. | Include diabetic populations in recruitment; partner with endocrinology clinics. |
+
+### 2.4 Trial Status Concerns
+
+- **10 studies "Active Not Recruiting"** — stuck in recruitment limbo; participants cannot join
+- **10 studies "Unknown" status** — unclear if still enrolling; likely dropped off radar
+- **Only 23 of 104 studies actively recruiting** — severe bottleneck for community access
+- **51 completed** — data exists but no current recruitment
+
+### 2.5 Summary of Gaps Requiring Outreach Intervention
+
+1. **No minority-focused prosthetic trials** in the current US portfolio
+2. **No trials in Chicago proper** (closest is University of Michigan study at Rosalind Franklin in suburban Chicago)
+3. **Phases 2-4 underrepresented** — only 6 total formal-phase studies; most are observational
+4. **No uninsured/underinsured inclusion** in current trial designs
+5. **Geographic clustering** in VA hubs and academic medical centers
 
 ---
 
-## 3. Shirley Ryan AbilityLab Site Accessibility Assessment
+## 3. Shirley Ryan AbilityLab (SRAL) — Site Accessibility Assessment
 
-**Location:** 355 East Erie Street, Streeterville, Chicago, IL 60611
+**Address:** 355 East Erie Street, Streeterville, Near North Side, Chicago, IL 60611
 **Coordinates:** 41.8939°N, -87.6184°W
-**Site Type:** Hospital / Rehabilitation Research Institute
+**OSM Type:** Hospital (building) | Importance: 0.354
 
-### 3.1 Healthcare & Essential Services Within 500m
+### 3.1 Transit Access
 
-| Category | Facility | Distance | Hours | Wheelchair Accessible |
-|----------|----------|----------|-------|----------------------|
-| Pharmacy | Walgreens (757 N Michigan Ave) | ~600m | 24/7 | Yes |
-| Convenience | 7-Eleven (201 E Ohio St) | ~500m | 24/7 | Yes |
-| Cafe | Yolk (355 E Ohio St — same building) | ~0m | 7:00–14:30 daily | Yes |
-| Cafe | Starbucks (Hyatt, 633 N St Clair) | ~400m | 24/7 | Yes |
-| Restaurant | Panera Bread (Galter Pavilion) | ~500m | M-Th 6:30-16:00; F 6:30-14:00 | Yes |
-| Restaurant | Chipotle (291 E Ontario St) | ~400m | — | Takeout available |
-| Park | Jane Adams Park (550 E Grand Ave) | ~400m | — | Accessible paths |
-| Shopping | Whole Foods Market (255 E Grand Ave) | ~500m | 8:00–22:00 daily | Yes |
+| Mode | Details |
+|------|---------|
+| **CTA Bus** | Multiple routes on Erie St (81, 151, 156, 157) and Grand Ave (37, 66) |
+| **CTA Red Line** | Chicago Ave & State St station (~500m south); connects to downtown Loop in ~10 min |
+| **Divvy Bike-Share** | 6 docking stations within 500m (McClurg Ct & Ohio St, Fairbanks Ct & Grand Ave, Michigan Ave & Pearson St, Cityfront Plaza, Mies van der Rohe Way, St Clair & Erie) |
+| **Walking/Wheelchair** | Flat street-level access; SRAL is ADA-compliant hospital lobby |
 
-### 3.2 Public Transit (CTA Bus) — All Within 500m
+### 3.2 Healthcare Facilities (Within 500m)
 
-| Stop Name | # of Stops on Route | Key Routes | Transit Info |
-|-----------|---------------------|------------|--------------|
-| Michigan & Erie | 2 | 1100, 1124 | Shelter, bus only |
-| Michigan & Ontario | 2 | 1122, 1124 | Shelter, real-time displays |
-| Michigan & Ohio | 2 | 1101, 1102 | Shelter, lit, real-time |
-| Michigan & Grand | 1 | 1123 | Shelter, lit, real-time |
-| Michigan & Hubbard (Tribune) | 2 | 1122, 1125 | Level boarding, real-time |
-| Michigan & Hubbard (Wrigley) | 2 | 1103, 1125 | Level boarding |
-| Michigan & Chicago | 3 | 1126, 33913 | Shelter, real-time |
-| Michigan & Chestnut (Water Tower) | 1 | 1127 | Shelter, real-time |
-| Fairbanks & Chicago | 1 | 596 | Sheltered bench |
-| Chicago & Fairbanks | 1 | 582 | Sheltered bench |
-| Lake Shore D & Chestnut/Pearson | 1 | 5000 | Sheltered bench |
-| Pearson & Dewitt | 1 | 5001 | Shelter, bench |
+| Facility | Type | Distance | Notes |
+|----------|------|----------|-------|
+| Prentice Women's Hospital | Hospital | ~200m | Part of Northwestern Medicine system |
+| Hospital for Special Surgery | Hospital | ~300m | Rehabilitation-focused |
+| Northwestern University Law Library | Academic/Resource | ~250m | Within SRAL complex, potential education space |
+| Multiple outpatient clinics | Healthcare | Various | Streeterville/Near North Side density |
 
-**Nearest CTA Red Line:** Chicago Red Line station on the Magnificent Mile (~800m). No Blue Line within 500m.
+### 3.3 Pharmacy Access
 
-**Transit Summary:** Excellent coverage on Michigan Avenue (multiple routes serving downtown). Real-time displays and shelters at most stops. Limited rapid transit (subway) proximity — participants may need bus/bike/taxi hybrids.
+| Pharmacy | Distance | Hours | Accessibility |
+|----------|----------|-------|---------------|
+| **Walgreens** (757 N Michigan Ave) | ~450m | **24/7** | Wheelchair accessible, full dispensing |
 
-### 3.3 Parking Options
+### 3.4 Parking
 
-| Parking Type | Details | Distance | Notes |
-|-------------|---------|----------|-------|
-| Underground | Unnamed (retractable barrier) | ~500m | Sub-level; may require elevator access — challenging for prosthetic users |
-| Multi-storey | DoubleTree Hotel parking | ~450m | 24/7 access, fee-based, staffed |
-| Valet | Available at DoubleTree | ~450m | Can coordinate for trial participants |
-| Street | Metered on Erie & Grand | Variable | Limited availability; 2-hour max |
+| Facility | Type | Distance | Fee | Hours | Wheelchair |
+|----------|------|----------|-----|-------|------------|
+| **Doubletree Garage** | Multi-storey | **~162m** | Yes | 24/7 | Accessible entry |
+| **Underground Parking** | Underground | ~381m | Public access | Unknown | Not confirmed |
 
-### 3.4 Bicycle Infrastructure (Divvy BikeShare)
+### 3.5 Community Amenities (Within 500m)
 
-5 stations within 500m — excellent for last-mile transit:
+#### Food & Beverage
+- Chipotle (291 E Ontario) — Mexican, takeaway
+- Panera Bread (201 E Huron) — Sandwiches, Wi-Fi, wheelchair accessible, 6:30am-4pm
+- Dunkin' (250 E Superior, Prentice) — 24/7, wheelchair accessible
+- Potbelly (277 E Ontario) — Sandwiches, takeaway
+- Indian Garden (247 E Ontario) — Indian cuisine
+- Yolk (355 E Ohio) — Breakfast, wheelchair accessible, 7am-2:30pm
+- Dollop Coffee (345 E Ohio) — Wheelchair accessible, 7am-5pm
+- Starbucks (633 N St Clair, Hyatt) — Wi-Fi, takeaway
+- Caffè Oliva (550 E Grand) — Outdoor seating only
 
-| Station | Capacity | Proximity |
-|---------|----------|-----------|
-| McClurg Ct & Ohio St | 19 docks | ~300m |
-| Fairbanks Ct & Grand Ave | 15 docks | ~450m |
-| Michigan Ave & Pearson St | 23 docks | ~500m |
-| Cityfront Plaza Dr & Pioneer Ct | 19 docks | ~450m |
-| Mies van der Rohe Way & Chicago Ave | 15 docks | ~400m |
-| St Clair St & Erie St | 19 docks | ~450m |
+#### Convenience & Shopping
+- 7-Eleven (201 E Ohio) — 24/7, ATM, wheelchair accessible
+- 7-Eleven (600 N McClurg) — ATM, wheelchair accessible
+- Whole Foods Market (255 E Grand) — 8am-10pm, wheelchair accessible
+- Sephora (605 N Michigan) — 10am-7pm
 
-### 3.5 Accessibility Assessment Summary
+#### Banking
+- Chase (549 N McClurg) — 9am-5pm weekdays, 9am-2pm Sat
+- Chase (605 N Michigan) — 9am-5pm weekdays
+- First American Bank (643 E Erie) — ATM
 
-**Strengths:**
-- Hospital setting ensures ADA-compliant facility entrances, elevators, and restrooms
-- Multiple 24/7 options (Walgreens, 7-Eleven, Starbucks) for participants needing flexibility
-- Strong CTA bus network on Michigan Ave provides affordable transit from all Chicago neighborhoods
-- Divvy stations offer car-free options
+#### Recreation & Culture
+- AMC River East 21 (322 E Illinois) — Cinema, wheelchair accessible, 21 screens
+- Lucky Strike Downtown (322 E Illinois, 2nd floor) — Bowling, wheelchair accessible
+- The Ritz-Carlton Chicago (160 E Pearson) — Hotel (potential partner lodging for out-of-town participants)
 
-**Concerns:**
-- Underground parking may be difficult for prosthetic users (elevator/ramp required)
-- Tactile paving at bus stops is inconsistent
-- No CTA rapid transit within 500m — participants from outer neighborhoods need transfers
-- Some restaurants (Timothy O'Toole's Pub) are NOT wheelchair accessible
-
-**Recommendations:**
-- Reserve DoubleTree multi-storey parking spots for trial participants with mobility needs
-- Provide written parking/directions with elevator locations in recruitment materials
-- Coordinate with 7-Eleven for after-hours participant meetup point (24/7, accessible, safe)
-- Use Divvy bike-share for able-bodied peer navigators to travel between outreach sites
+#### Postal
+- USPS Streeterville Post Office (355 E Ohio, Ste 200)
 
 ---
 
 ## 4. Proposed Outreach Strategies
 
-### 4.1 Community-Based Recruitment Hub at Shirley Ryan AbilityLab
-- Set up a dedicated **Outreach & Information Kiosk** in the hospital's main lobby or rehabilitation gym
-- Partner with Shirley Ryan's **PM&R department** to embed trial information in patient admission packets and rehab schedules
-- Offer **transportation vouchers** (Divvy credits, rideshare codes) for participants touring trial sites
-- Host **monthly "Lunch & Learn"** sessions about trial participation in the hospital cafeteria
+### Strategy 1: SRAL-Centric Community Hub Model
+- **Leverage SRAL's location:** Prime Streeterville position with transit, parking, and amenities makes it ideal for community events
+- **Use Northwestern community spaces:** Prentice Women's Hospital lobby and adjacent facilities for waiting areas and education
+- **Host monthly "Prosthetics Open House"** at SRAL with free screenings, device demos, and trial info
+- **Partner with 24/7 Walgreens** for informational flyer distribution
 
-### 4.2 Addressing Racial, Ethnic & Gender Diversity
-- Partner with **churches and community organizations** on the South and West Sides (e.g., South Side community centers, West Side health fairs)
-- Collaborate with **Vet Centers** (3 in Chicago: W. Wilson Ave, S. Kedzie Ave, N. cicero Ave) to reach veteran amputees underrepresented in community trials
-- Create **multilingual recruitment materials** (Spanish, Polish, Chinese) at ≤8th grade reading level
-- Target **diabetes clinics** at Northwestern Memorial and UI Health for outreach to diabetes-related amputation patients
-- Deploy **gender-matched recruiters** and ensure female-friendly scheduling (avoiding school drop-off/pick-up conflicts)
+### Strategy 2: South/West Side Satellite Outreach
+- Establish satellite prosthetic resource centers at:
+  - Mercy Hospital (South Side)
+  - Mount Sinai Hospital (Near West Side)
+  - Roseland Community Hospital
+- Partner with CVS/Walgreens on the South and West sides for trial info kiosks
+- **Target:** 3 satellite partnerships within 6 months
 
-### 4.3 Transit-Oriented Outreach
-- Set up **informational tables** at Michigan & Erie and Michigan & Ohio CTA bus stops during morning/evening rush hours
-- Partner with **CTA** to display trial info on transit shelters along Michigan Avenue
-- Distribute **Divvy bike-share flyers** with QR codes linking to trial info at docking stations
-- Create a **"Try a Trial" bus route** — printed transit map showing how to get to trial sites from major CTA hubs
+### Strategy 3: Faith-Based Community Navigator Program
+- Train 10-15 community health workers from church/community networks
+- Provide multilingual (English, Spanish, Polish) prosthetic trial educational kits
+- Host quarterly health fairs at South/West Side churches
+- **Target:** 5 church partnerships, 3 health fairs in Year 1
 
-### 4.4 Pharmacy & Retail Partnerships
-- Place **recruitment flyers** at Walgreens (24/7, near trial site) and 7-Eleven (24/7, accessible)
-- Partner with **Panera Bread** (Galter Pavilion, adjacent to hospital) for "Goodies & Trials" info cards with coffee purchases
-- Collaborate with **Whole Foods Market** (Streeterville) for community health fair presence
-- Coordinate with **7-Eleven** to serve as a **safe meeting point** for prosthetic users needing to meet with study coordinators
+### Strategy 4: Veteran + Non-Veteran Bridge Program
+- Collaborate with VA hospitals (Jesse Brown, Hines) for veteran prosthetic awareness
+- Extend beyond VA to include non-veteran amputees through SRAL
+- Host joint VA-community screening events quarterly at SRAL
+- **Target:** 2 blended VA-community events per quarter
 
-### 4.5 Digital & Social Media Outreach
-- Create **WhatsApp and Facebook groups** for prosthetic users in Chicago (many older adults use Facebook, not Instagram)
-- Optimize **ClinicalTrials.gov listings** with plain-language summaries and photos of the Chicago site
-- Share **peer testimonials** on social media (targeting younger amputees on TikTok/YouTube)
-- Use **Geo-targeted Facebook ads** in Chicago ZIP codes with high amputee populations (consult VA data)
-- Launch a **simple project website** (repo-based) with trial listings and a "Find a Trial" search tool
+### Strategy 5: Digital & Transportation Partnership
+- **SMS/email reminders** for trial appointments (reduce no-shows)
+- **Subsidized rideshare codes** (Uber/Lyft voucher program for trial visits)
+- **"Trial Shuttle"** from CTA Red Line (Chicago Ave station) to SRAL for mobility-impaired participants
+- **Divvy bike-share partnership** — offer discounted annual memberships
+- **Target:** 25% reduction in no-show rate; 200 subsidized rides in Year 1
 
-### 4.6 Peer Navigator Program
-- Recruit experienced prosthetic users as **Community Health Workers (CHWs)** to provide peer navigation
-- Train CHWs to explain informed consent in accessible language and **accompany participants to first study visits**
-- Partner with **Shirley Ryan's peer mentoring program** to identify and train navigators
-- Compensate CHWs with **stipends** (~$500/month) to ensure sustainability and commitment
-- Create a **Navigator Certification** program to build a replicable workforce pipeline
+### Strategy 6: Inclusive Trial Design Advocacy
+- Push for demographic diversity requirements in all partnered trials
+- Advocate for:
+  - Flexible scheduling (evening/weekend visits)
+  - Telehealth check-in options
+  - Reduced visit burden (minimum 4-6 visits vs. standard 10+)
+  - Explicit recruitment from FQHCs and community clinics
+- **Target:** 5 trials adopt inclusive design features within 2 years
 
-### 4.7 Inclusive Trial Design Advocacy
-- Advocate for protocol amendments to include:
-  - **Broader age ranges** — remove arbitrary upper caps (e.g., age 70 in VA thermoregulation study)
-  - **Bilateral amputees** — currently excluded from virtually all prosthetic trials
-  - **Rural participants** — offer telehealth follow-up visits to reduce burden
-  - **Cognitive impairment** — simplified consent using teach-back methods
-  - **Non-English speakers** — translated consent and study materials
-- Push for **mandatory demographic reporting** (race, ethnicity, sex, age) on ClinicalTrials.gov results submissions
-- Develop **standardized diversity benchmarks** for prosthetic trial sponsors
-
-### 4.8 Parking & Accessibility Accommodations
-- Reserve **DoubleTree multi-storey parking** spots for trial participants with mobility challenges
-- Provide **valet parking coordination** through hospital Concierge services
-- Ensure all outreach event venues have **elevators** and **accessible restrooms**
-- Include **parking maps and transit directions** in all recruitment materials (visual, not just text)
-- Offer **adaptive equipment** at outreach events (ramps, portable seating, magnifying materials)
+### Strategy 7:Data Transparency & Community Reporting
+- Publish quarterly "Gaps & Progress" reports on GitHub (this repo)
+- Share findings with Chicago Public Health Department and community boards
+- Create a public dashboard tracking enrollment demographics in partner trials
+- **Target:** Public dashboard live within 3 months; quarterly updates
 
 ---
 
-## 5. Summary & Next Steps
+## 5. Immediate Action Plan
 
-### Key Findings at a Glance
-
-| Dimension | Current State | Target State |
-|-----------|--------------|-------------|
-| Sponsor diversity | 61.5% academic, 24% industry | 40% community/public health, 30% industry, 30% academic |
-| Trial phase | 73.1% N/A (observational/device) | 30% Phase 2+, 70% early-phase with community components |
-| Geographic reach | 100% urban academic hubs | 50% urban, 25% suburban, 25% rural/telehealth |
-| Racial diversity | Near-zero in most trials | Demographic mirrors Chicago metro population |
-| Female representation | ~14% average | ≥40% (proportional to amputee population) |
-| Health literacy level | College reading level | ≤8th grade reading level |
-
-### Immediate Next Steps (Weeks 1-4)
-1. ✅ Finalize outreach assessment (this document)
-2. 🔲 Contact Shirley Ryan AbilityLab admin to discuss kiosk/lobby space
-3. 🔲 Map Chicago ZIP codes with highest lower-limb amputation prevalence (request VA data)
-4. 🔲 Draft multilingual recruitment materials (English, Spanish, Polish)
-5. 🔲 Identify 5 peer navigator candidates from Shirley Ryan's peer program
-6. 🔲 Schedule meetings with CTA community liaison for transit shelter placement
-7. 🔲 Create project GitHub site with trial database and outreach calendar
-
-### Medium-Term Goals (Months 2-6)
-1. 🔲 Launch first recruitment event at 7-Eleven (24/7 accessible location)
-2. 🔲 Establish Divvy bike-share partnership for participant transit
-3. 🔲 Submit diversity targets to 3 active/local trials (NCT05287646, NCT04038580, NCT07491614)
-4. 🔲 Recruit and train first cohort of 10 peer navigators
-5. 🔲 Host first "Lunch & Learn" at Shirley Ryan AbilityLab
-
-### Long-Term Vision (6-12 Months)
-1. 🔲 Expand model to 2 additional Chicago sites (Jesse Brown VA, Stroger Hospital)
-2. 🔲 Launch statewide registry of prosthetic users in Illinois
-3. 🔲 Develop replicable outreach toolkit for other cities
-4. 🔲 Publish results in a disability health journal
-5. 🔲 Advocate for NIH policy on demographic diversity in prosthetic device trials
+| Timeline | Action | Owner |
+|----------|--------|-------|
+| **Week 1** | Contact SRAL research office; present partnership proposal | Outreach Lead |
+| **Week 2** | Identify 3 South/West Side prosthetic clinics for outreach mapping | Field Coordinator |
+| **Week 3** | Develop multilingual outreach materials (English/Spanish/Polish) | Communications |
+| **Week 4** | Launch pilot "Prosthetics Open House" at SRAL | SRAL Liaison |
+| **Month 2** | Train first cohort of 5 community health navigators | Training Coordinator |
+| **Month 3** | Go-live with digital dashboard and public GitHub reports | Data Lead |
+| **Ongoing** | Quarterly progress reviews; adapt strategies based on enrollment data | All |
 
 ---
 
-*Report generated from ClinicalTrials.gov search data (104 studies matching "lower limb prosthetic"), OpenStreetMap geocoding of Shirley Ryan AbilityLab, and nearby place analysis within 500m radius. All findings based on publicly available data as of July 2026.*
+## 6. Data Sources
+
+- **ClinicalTrials.gov:** 104 studies searched; 10 highlighted; trend analysis by sponsor (5 types), phase (5 categories), and status (6 categories)
+- **OpenStreetMap:** SRAL geocoding, 50+ nearby amenities searched; parking, pharmacy, transit, and dining verified
+- **GitHub:** Repository `zhub9006/prosthetic-trial-outreach` — this document tracked and versioned
+
+---
+
+*Assessment prepared: July 2025*
+*Contact: Outreach Lead — prosthetic-trial-outreach project*

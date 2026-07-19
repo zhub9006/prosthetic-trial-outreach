@@ -41,11 +41,21 @@
 - Evidence base for prosthetic users is extremely thin
 - Insurance coverage decisions lack supportive trial data
 
-### 1.3 Identified Gaps in Underserved Populations
+### 1.3 Recruiting-Trial Breakdown (21 currently recruiting)
+
+| Sponsor Type | Recruiting | % |
+|---|---|---|
+| OTHER (Academic) | 13 | 62% |
+| Industry | 7 | 33% |
+| FED (Federal/VA) | 1 | 5% |
+
+**Key insight:** Among active recruiters, industry is more represented (33%) than the overall pool (14%), but only 7 industry-sponsored trials are actively recruiting — a critical gap in device innovation coverage.
+
+### 1.4 Identified Gaps in Underserved Populations
 
 | Gap | Evidence | Impact |
 |---|---|---|
-| **Rural Invisibility** | Zero trials in rural Midwest, Southern US, or tribal lands | ~30% of amputees in rural settings excluded from research |
+| **Rural Invisibility** | Zero trials in rural Midwest, Southern US, or tribal lands | ~30% of amputees in rural settings excluded |
 | **Racial/Ethnic** | No Spanish-language consent forms; no minority recruitment benchmarks; Chicago South Side = 0 trial sites | African American amputation rate is 2–4× higher; trial participants skew white |
 | **Gender** | 90%+ male enrollment in most prosthetics trials | Female amputees (~25% of population) systematically excluded |
 | **Pediatric** | No pediatric-specific prosthetic trials found | Children with congenital or traumatic limb loss have no trial options |
@@ -54,36 +64,25 @@
 | **Medicaid/Uninsured** | No trial coverage for device costs | Prosthetic devices cost $5K–$50K+; uninsured can't participate |
 | **Spanish Language** | Zero trials with Spanish consent | ~400K Spanish-speaking amputees in US excluded |
 
-### 1.4 Active/Notable Trials at a Glance
+### 1.5 Active/Notable Trials at a Glance
 
 | NCT ID | Title (condensed) | Status | Enrollment | Sponsor | Key Gap |
 |---|---|---|---|---|---|
-| NCT06883942 | MOTU++ Pedane — Fall risk biomarkers | COMPLETED | 8 | Fondazione Don Carlo Gnocchi | Italian only, small sample |
-| NCT02542761 | Mayo Clinic — Socket design/alignment | COMPLETED | 40 | Mayo Clinic (Academic) | No diversity reporting |
-| NCT06160882 | Powered prosthesis for TF osseointegration | **RECRUITING** | 6 | Shirley Ryan AbilityLab | Only 6 enrolled; academic sponsor |
-| NCT05560516 | Adjustable prosthetic foot study | RECRUITING | 25 | Academic | Urban only |
-| NCT05789813 | Osseointegration integration protocol | ENROLLING | 15 | Academic | No rural sites |
-| NCT05812138 | Kinematic prosthetic knee evaluation | RECRUITING | 30 | Industry | Industry sponsor (rare) |
-| NCT05698357 | Phantom pain management trial | ACTIVE | 50 | NIH | Only NIH-funded trial |
-| NCT05589158 | COVID-19 impact on prosthesis use | COMPLETED | 120 | Academic | Observational only |
-| NCT05498267 | Socket suspension comparison | COMPLETED | 45 | Industry | No minority focus |
-| NCT05460710 | Junior prosthesis durability | COMPLETED | 20 | Academic | Pediatric-adjacent |
-| NCT05398817 | EMG-controlled hand prosthesis | RECRUITING | 35 | Industry | Upper limb focus |
+| NCT05644522 | Nomad P-KAFO — Powered KAFO vs traditional brace | **RECRUITING** | 36 | Shirley Ryan AbilityLab | Academic sponsor only |
+| NCT03409133 | Neural Feedback for Lower Limb Amputees | **RECRUITING** | 15 | Louis Stokes VA Medical Center | Federal sponsor |
+| NCT06243549 | Personalisation of Prosthetic Care for Lower-Limb Amputees | ACTIVE_NOT_RECRUITING | 30 | University of Bath | Not currently recruiting |
+| NCT05287646 | Bone/Skin Movement in Transtibial Amputation | **RECRUITING** | 21 | Academic | No community outreach |
+| NCT06160882 | Powered prosthesis for TF osseointegration | **RECRUITING** | 6 | Shirley Ryan AbilityLab | Too small; needs diversification |
 
-### 1.5 Summary: Where Are the Gaps?
+### 1.6 SRAL Trial Activity Gap
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  GIANT RED FLAGS                                                 │
-│  • 73% academic / 70% non-interventional → no pipeline          │
-│  • 0 industry-sponsored diversity benchmarks                     │
-│  • NIH funding: 2 out of 427 (0.5%)                             │
-│  • Phase 3–4: Only 10 trials (2.3%) — no pivotal evidence       │
-│  • Rural + Global South: Almost invisible                        │
-│  • Racial/ethnic + Gender + Pediatric + Spanish: Zero inclusion  │
-│  • Medicaid/uninsured: No cost coverage in trials                │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Metric | Value |
+|---|---|
+| Trials currently recruiting at SRAL | 2 (NCT05644522, NCT06160882) |
+| SRAL trials in recruiting status | 2 of 21 total active recruiters |
+| Proposed gap | SRAL should be a hub for 10+ simultaneous lower-limb prosthetic trials |
+
+**Key insight:** Despite being the world's premier rehab research hospital, SRAL currently runs only 2-3 lower-limb prosthetic trials — a significant missed opportunity. The SRAL site should be a hub for 10+ simultaneous recruiting studies covering diverse prosthetics populations.
 
 ---
 
@@ -213,35 +212,4 @@
 1. **DME Integration (Priority #1):** Bring a prosthetic vendor/on-site fitting lab within 500m. Options: partner with existing DME companies on N Michigan Ave, or co-locate with VA Lakeside.
 2. **ADA Parking:** Negotiate designated accessible spots at Doubletree garage or street parking.
 3. **Transportation Voucher Program:** For patients who can't drive/find parking.
-4. **Parks/Social Services Linkage:** Partner with nearby community centers (e.g., Navy Pier or Old Town facilities) for holistic support beyond the 500m radius.
-
----
-
-## Part 5: Proposed Outreach Strategies (Summary)
-
-| # | Strategy | Budget | Timeline | Directly Addresses |
-|---|---|---|---|---|
-| 1 | Patient Navigation & Transport | ~$111K/yr | Immediate | Parking gap, rural/low-income access |
-| 2 | Data Transparency Dashboard | ~$30K (one-time) | 3 months | Lack of diversity benchmarks |
-| 3 | Community Advisory Board (CAB) | ~$50K/yr | 1 month | No community input in trial design |
-| 4 | Mandatory Diversity Benchmarks | Policy (no cost) | 12 months | Racial, gender, age gaps |
-| 5 | Mobile Screening Events | ~$150K/yr | 6 months | Rural, South Side gaps |
-| 6 | Industry-Academic Pipeline | ~$230K/yr | 6–12 months | Industry underrepresentation |
-| 7 | DME Integration at SRAL | ~$100K (setup) | 6 months | DME = 0/10 at site |
-| 8 | Older Adult Programming | ~$30K/yr | 6 months | Age/cognitive exclusion |
-| 9 | Tele-Trial Hub | ~$75K/yr | 3 months | Rural, mobility, geographic barriers |
-| 10 | South Side Permanent Office | ~$350K/yr | 12+ months | Racial/ethnic, geographic gaps |
-| 11 | Rural Outreach via VA | ~$200K/yr | 12+ months | Rural, Global South |
-| 12 | Mental Health Integration | ~$50K/yr | 6 months | Comorbidity exclusion |
-
-### Annual Budget Roadmap
-
-| Year | Strategies | Est. Cost |
-|---|---|---|
-| Year 1 | P1 (Immediate) + P3 (Near-Term) | **~$141K** |
-| Year 2 | + P2 (Medium-Term) | **~$521K** |
-| Year 3+ | + P4 (Long-Term) | **~$871K** |
-
----
-
-*This assessment was generated using ClinicalTrials.gov API data (427 trials) and OpenStreetMap geographic data for the Shirley Ryan AbilityLab area. For questions or collaboration, open an issue on GitHub: https://github.com/zhub9006/prosthetic-trial-outreach*
+4. **Parks/Social Services Linkage:** Partner with nearby community centers for outdoor programming and social services referrals.

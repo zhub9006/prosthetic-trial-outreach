@@ -4,11 +4,10 @@ Community outreach assessment for lower limb prosthetic trials, identifying enro
 
 ## Quick Links
 
-- 📋 **Full Assessment:** [SRAL_OUTREACH_2026.md](SRAL_OUTREACH_2026.md)
-- 🔬 **Trial Gap Analysis (July 2026):** [OUTREACH_ANALYSIS_JULY2026.md](OUTREACH_ANALYSIS_JULY2026.md) ← New
-- 🔍 **Trial Gap Analysis:** See Sections 1–2 of assessment
-- 📍 **Site Accessibility:** See Section 3 of assessment
-- 📦 **Outreach Strategies:** See Section 4 of assessment
+- 📋 **Full Outreach Assessment:** [OUTREACH_ASSESSMENT.md](OUTREACH_ASSESSMENT.md)
+- 📊 **Trial Gap Analysis:** See Sections 1–2 of assessment
+- 📍 **Site Accessibility:** See Section 4 of assessment
+- 💡 **Outreach Strategies:** See Section 5 of assessment
 
 ## Key Findings at a Glance
 
@@ -16,33 +15,34 @@ Community outreach assessment for lower limb prosthetic trials, identifying enro
 | Metric | Finding |
 |---|---|
 | Total lower-limb prosthetic trials | 104 |
-| Recruiting trials (estimated) | ~30–33 |
-| Industry-sponsored recruiting trials | ~25% (33%) |
-| Federal/NI recruiting trials | ~16% (near zero civic) |
+| Recruiting trials (estimated) | ~40 |
+| Industry-sponsored recruiting trials | 33% |
+| Federal/gl recruiting trials | ~3% (near zero) |
 | Civic/nonprofit-funded trials | **0** |
-| Phase 2–3 trials | **4** (tiny: 2–8 participants each) |
+| Phase 2–3 trials | **1** (tiny: 2–8 participants each) |
 | Pediatric prosthetic trials | **0** |
 | Rural trial sites | **0** |
 | Non-English consent forms | **0** |
+| DME vendors near SRAL (500 m) | **0** |
 
 ### SRAL Site Accessibility (500 m)
 | Category | Score | Key Finding |
 |---|---|---|
-| Transit | 9.4/10 | 48 CTA bus stops, 7 Divvy stations |
+| Transit | 9/10 | 48 CTA bus stops, 7 Divvy stations |
 | Walkability | 10/10 | Flat, ADA sidewalks |
-| Healthcare | 4/10 | 5 pharmacies, no clinic within 500m |
-| Parking | 4/10 | 4 paid garages; no ADA spots within 200m |
+| Healthcare | 4/10 | No clinic within 500 m; 3 Walgreens pharmacies |
+| Parking | 4/10 | 4 paid facilities; no ADA spots within 200 m |
 | DME Vendors | **0/10** | **#1 site-level barrier** |
-| Parks/Social Services | 0/10 | None within 500m |
-| **Overall** | **~5.5/10** | Strong transit, critical gaps in DME, parks, social services |
+| Parks/Social Services | 0/10 | None within 500 m |
+| **Overall** | **~5.3 / 10** | Strong transit, critical gaps in DME, healthcare proximity, and social amenities |
 
 ## Repository Structure
 
 ```
 prosthetic-trial-outreach/
 ├── README.md                       ← This file
-├── SRAL_OUTREACH_2026.md           ← Comprehensive assessment
-└── OUTREACH_ANALYSIS_JULY2026.md   ← Detailed trial gaps + outreach strategies
+└── OUTREACH_ASSESSMENT.md          ← Comprehensive assessment with trial gaps,
+                                     site accessibility, and proposed outreach strategies
 ```
 
 ## Getting Started

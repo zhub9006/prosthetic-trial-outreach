@@ -5,9 +5,10 @@ Community outreach assessment for lower limb prosthetic trials, identifying enro
 ## Quick Links
 
 - 📋 **Full Assessment:** [SRAL_OUTREACH_2026.md](SRAL_OUTREACH_2026.md)
-- 🔬 **Trial Gap Analysis:** See Sections 1–2 of assessment
+- 🔬 **Trial Gap Analysis (July 2026):** [OUTREACH_ANALYSIS_JULY2026.md](OUTREACH_ANALYSIS_JULY2026.md) ← New
+- 🔍 **Trial Gap Analysis:** See Sections 1–2 of assessment
 - 📍 **Site Accessibility:** See Section 3 of assessment
-- 📢 **Outreach Strategies:** See Section 4 of assessment
+- 📦 **Outreach Strategies:** See Section 4 of assessment
 
 ## Key Findings at a Glance
 
@@ -15,9 +16,9 @@ Community outreach assessment for lower limb prosthetic trials, identifying enro
 | Metric | Finding |
 |---|---|
 | Total lower-limb prosthetic trials | 104 |
-| Recruiting trials (estimated) | ~30 |
-| Industry-sponsored recruiting trials | 33% |
-| Federal/NI recruiting trials | ~3% (near zero) |
+| Recruiting trials (estimated) | ~30–33 |
+| Industry-sponsored recruiting trials | ~25% (33%) |
+| Federal/NI recruiting trials | ~16% (near zero civic) |
 | Civic/nonprofit-funded trials | **0** |
 | Phase 2–3 trials | **4** (tiny: 2–8 participants each) |
 | Pediatric prosthetic trials | **0** |
@@ -29,8 +30,8 @@ Community outreach assessment for lower limb prosthetic trials, identifying enro
 |---|---|---|
 | Transit | 9.4/10 | 48 CTA bus stops, 7 Divvy stations |
 | Walkability | 10/10 | Flat, ADA sidewalks |
-| Healthcare | 4/10 | No clinic within 500m; 1 pharmacy (Walgreens 24/7) |
-| Parking | 4/10 | 2 paid garages; no ADA spots within 200m |
+| Healthcare | 4/10 | 5 pharmacies, no clinic within 500m |
+| Parking | 4/10 | 4 paid garages; no ADA spots within 200m |
 | DME Vendors | **0/10** | **#1 site-level barrier** |
 | Parks/Social Services | 0/10 | None within 500m |
 | **Overall** | **~5.5/10** | Strong transit, critical gaps in DME, parks, social services |
@@ -40,7 +41,8 @@ Community outreach assessment for lower limb prosthetic trials, identifying enro
 ```
 prosthetic-trial-outreach/
 ├── README.md                       ← This file
-└── SRAL_OUTREACH_2026.md           ← Comprehensive assessment
+├── SRAL_OUTREACH_2026.md           ← Comprehensive assessment
+└── OUTREACH_ANALYSIS_JULY2026.md   ← Detailed trial gaps + outreach strategies
 ```
 
 ## Getting Started

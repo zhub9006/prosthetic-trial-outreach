@@ -60,7 +60,7 @@ This project assesses the current landscape of lower limb prosthetic clinical tr
 | NCT07044323 | VR Treatment of Phantom Leg Pain (Home-Based) | **Albert Einstein / NIH** | RECRUITING | 44 |
 | NCT05990062 | Improving Prosthetic Arms — KSH Socket System | **VA Office of R&D** | RECRUITING | 25 |
 
-*Three additional trials found in broader searches; full list in [SRAL_OUTREACH_COMPREHENSIVE.md](SRAL_OUTREACH_COMPREHENSIVE.md).*
+*Three additional trials found in broader searches; full list in [SRAL_OUTREACH_2026.md](SRAL_OUTREACH_2026.md).*
 
 ---
 
@@ -74,7 +74,7 @@ This project assesses the current landscape of lower limb prosthetic clinical tr
 6. **Geriatric Protocol** — Prosthetic outcomes trial for adults 75+.
 7. **Female Recruitment** — Enrollment targets + women's health org partnerships.
 
-Full strategies with budgets and timelines → [SRAL_OUTREACH_COMPREHENSIVE.md](SRAL_OUTREACH_COMPREHENSIVE.md)
+Full strategies with budgets and timelines → [SRAL_OUTREACH_2026.md](SRAL_OUTREACH_2026.md)
 
 ---
 
@@ -83,10 +83,11 @@ Full strategies with budgets and timelines → [SRAL_OUTREACH_COMPREHENSIVE.md](
 ```
 prosthetic-trial-outreach/
 ├── README.md                              ← This file
-├── SRAL_OUTREACH_COMPREHENSIVE.md        ← Full assessment (detailed)
-├── OUTREACH_STRATEGIES.md                ← Detailed outreach strategies
-├── TRIAL_GAPS_AND_SITE_ACCESS.md         ← Trial gap analysis + SRAL assessment
-└── DATA/                                 ← Raw data exports
+├── SRAL_OUTREACH_2026.md                  ← Comprehensive assessment (July 2026 refresh)
+├── SRAL_OUTREACH_COMPREHENSIVE.md         ← Full assessment (detailed)
+├── OUTREACH_STRATEGIES.md                 ← Detailed outreach strategies
+├── TRIAL_GAPS_AND_SITE_ACCESS.md          ← Trial gap analysis + SRAL assessment
+└── DATA/                                  ← Raw data exports
 ```
 
 ---

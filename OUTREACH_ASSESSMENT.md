@@ -1,256 +1,184 @@
 # Prosthetic Trial Outreach Assessment
 
-> **Project:** Lower Limb Prosthetic Trial Outreach — Site & Gap Analysis  
-> **Assessment Date:** July 2026  
-> **Assessment Site:** Shirley Ryan AbilityLab, 355 E Erie St, Chicago, IL 60611  
-> **Data Sources:** ClinicalTrials.gov, OpenStreetMap
+> **Date:** July 2026  
+> **Site Under Evaluation:** Shirley Ryan AbilityLab, 355 East Erie Street, Chicago, IL 60611
 
 ---
 
-## Table of Contents
+## 1. Clinical Trial Gap Analysis
 
-1. [Clinical Trial Landscape](#1-clinical-trial-landscape)
-2. [Enrollment Trend Analysis](#2-enrollment-trend-analysis)
-3. [Identified Trial Gaps (Underserved Groups)](#3-identified-trial-gaps)
-4. [10 Key Active/Recruiting Trials](#4-10-key-activerecruiting-trials)
-5. [Shirley Ryan AbilityLab — Site Assessment](#5-shirley-ryan-abilitylab--site-assessment)
-6. [Outreach Strategies](#6-outreach-strategies)
+### 1.1 Overview of Current Lower Limb Prosthetic Trials
 
----
+A search of ClinicalTrials.gov identified **91 studies** related to lower limb prosthetic research. Below is a representative sample of 10 current/ongoing trials:
 
-## 1. Clinical Trial Landscape
+| NCT ID | Title | Sponsor | Status | Phase | Enrollment |
+|--------|-------|---------|--------|-------|------------|
+| NCT06243549 | Personalisation of Prosthetic Care for Lower-Limb Amputees | University of Bath | Active, Not Recruiting | N/A | 30 (est.) |
+| NCT04904003 | Prosthetic Use, Mobility and Daily Functioning (ProMob) | Oslo Metropolitan University | Completed | N/A | 60 |
+| NCT05287646 | Quantifying Bone and Skin Movement in Residual Limb (DSX) | VA Office of Research & Development | Recruiting | N/A | 21 (est.) |
+| NCT07215442 | Skin Temperature Perception and Prosthetic Thermoregulation | VA Puget Sound | Completed | N/A | 56 |
+| NCT03634124 | Thrombin Generation & DVT Post Prosthetic Orthopedic Surgery | Centre Hospitalier Univ. de Nîmes | Completed | Phase 3 | 146 |
+| NCT01846845 | Evaluation of Novel Transfemoral Prosthetic Socket System | Ohio Willow Wood | Unknown (was Recruiting) | N/A | 8 (est.) |
+| NCT04038580 | Comparative Assessment of Transfemoral Prosthetic Sockets | University of Michigan | Completed | N/A | 29 |
+| NCT07491614 | Prosthetic Socket Fit Testing System | University of Washington | Not Yet Recruiting | N/A | 18 (est.) |
+| NCT00300690 | Choice of Material for Above-Knee Femoro-Popliteal Bypass | University Hospital Gentofte | Completed | Phase 4 | 400 |
+| NCT01839123 | Evaluation of Limb Health Associated With Vacuum Socket System | Ohio Willow Wood | Unknown (was Recruiting) | N/A | 10 (est.) |
 
-A search of ClinicalTrials.gov for **lower limb prosthetic / amputation** trials returned **87 active, recruiting, or not-yet-recruiting studies** from an estimated corpus of ~450+ total trials on this topic. The 10 most relevant were analyzed in detail below.
+### 1.2 Enrollment Trends by Sponsor Type
 
-### Breakdown by Condition Focus
-- **Lower limb amputation (transtibial / transfemoral):** ~60 trials
-- **Osseointegration / socket-prosthesis comparison:** ~8 trials
-- **Neural interfaces / powered prostheses:** ~7 trials
-- **Residual limb biomechanics / pain:** ~5 trials
-- **Prosthetic gait / functional outcomes:** ~7 trials
+| Sponsor Type | Count | Share | Key Observations |
+|--------------|-------|-------|------------------|
+| **Other (Academic/Research)** | 54 | 59% | Dominant; universities in UK, Norway, US driving most studies |
+| **Industry** | 22 | 24% | Prosthetic manufacturers (e.g., Össur, Ottobock) — few active trials |
+| **Federal (FED)** | 12 | 13% | VA system is a major US funder of prosthetic research |
+| **Other Government (OTHER_GOV)** | 2 | 2% | NHS trusts in UK |
+| **NIH** | 1 | 1% | Very limited direct NIH funding for this area |
 
----
+### 1.3 Enrollment Trends by Phase
 
-## 2. Enrollment Trend Analysis
+| Phase | Count | Share | Key Observations |
+|-------|-------|-------|------------------|
+| **Unknown/Not Specified** | 20 | 22% | Large proportion lack phase designation |
+| **N/A (Device/Observational)** | 67 | 74% | Most studies are observational or device evaluations, not traditional Phase trials |
+| **Phase 2** | 2 | 2% | Very few early-phase efficacy studies |
+| **Phase 3** | 1 | 1% | Only one Phase 3 trial (DVT prevention) |
+| **Phase 4** | 1 | 1% | One post-market surveillance study |
 
-### 2A. By Sponsor Type (87 qualifying trials)
+### 1.4 Identified Gaps — Where Underserved Groups Are Missing
 
-| Sponsor Type | Count | % | Key Concern |
-|---|---|---|---|
-| **OTHER (Academic/Nonprofit)** | 56 | 64% | Good science, but limited community outreach budgets |
-| **FEDERAL (VA, NIH, DoD)** | 18 | 21% | Serves veterans mainly; misses non-veteran civilians |
-| **INDUSTRY** | 12 | 14% | Most advanced tech but profit-driven; underserved populations often excluded |
-| **OTHER_GOV (State/Local)** | 1 | 1% | Minimal presence |
+1. **Racial/Ethnic Diversity:** The University of Michigan trial (NCT04038580) reported only 1 Hispanic/Latino and 3 Black/African American participants out of 29 total (~13% non-White). Most trials lack demographic reporting entirely.
 
-> **Gap:** No civic, community-based, or nonprofit-sponsored trials. Only 14% industry-funded means cutting-edge devices (bionic limbs, OSSEOs) are rarely accessible to uninsured or low-income prosthetic users. Even the 21% federal funding is concentrated in VA settings.
+2. **Socioeconomic Accessibility:** The vast majority of trials are based at academic medical centers in affluent areas (Chicago, New York, Seattle, Oxford, Oslo). Low-income and rural populations have virtually no trial access.
 
-### 2B. By Phase (87 qualifying trials)
+3. **Women & Gender:** The Michigan trial had only 4 of 29 female participants (~14%). Few trials stratify outcomes by sex or address gender-specific prosthetic fit needs.
 
-| Phase | Count | % | Interpretation |
-|---|---|---|---|
-| **NA (Observational)** | 69 | 79% | Mostly surveys, registries, biomechanics studies — limited therapeutic intervention |
-| **Unknown** | 14 | 16% | Phase not yet assigned or unclear |
-| **Phase 2** | 1 | 1% | Only one early therapeutic-stage study |
-| **Early Phase 1** | 1 | 1% | Safety/dosing for neural interfaces |
-| **Phase 1** | 1 | 1% | Device feasibility |
+4. **Congenital vs. Acquired Amputation:** Most trials focus on acquired (vascular/traumatic) amputations. Congenital amputees are explicitly excluded (e.g., NCT06243549), and there is no dedicated research on pediatric or congenital prosthetic needs.
 
-> **Gap:** **80% of trials are observational or unclassified.** Only 3% are in early-phase interventional development. This means:
-> - Almost no pipeline for novel prosthetic devices in trials
-> - Underrepresented populations (rural, minority, pediatric, geriatric) are even less likely to be offered interventional trials
-> - The "far down" pipeline that could serve those with the greatest need is essentially absent
+5. **Veterans & Service Members:** While the VA funds some studies (NCT05287646, NCT07215442), the number of VA-sponsored trials is small relative to the veteran amputee population. Transition-era veterans (leaving service) are not specifically targeted.
 
-### 2C. By Country
+6. **Rural Populations:** No trials are located in rural areas. All 10 sampled trials are in major metropolitan regions, leaving rural amputees with no local trial participation options.
 
-| Country | Trials |
-|---|---|
-| United States | 110 (of broader corpus) |
-| France | 12 |
-| Spain | 7 |
-| United Kingdom | 3 |
-| Belgium | 3 |
-| Iceland | 2 |
-| Mexico | 1 |
-| Italy | 1 |
-| Norway | 1 |
+7. **Aging/Older Adults:** Most trials set age minimums at 18, but few actively recruit older adults or address the unique needs of elderly amputees (skin fragility, comorbidities, cognitive factors).
 
-> **Gap:** ~80 nations have zero prosthetic trial access. The US dominates but is internally uneven — no trials in rural Midwest, Southern US, or tribal lands.
+8. **Phase 2/3 Efficacy Trials:** The near-absence of Phase 2 and 3 trials (only 2 and 1 respectively) means there is a critical gap in testing new prosthetic technologies' clinical effectiveness before they reach the market.
+
+9. **Industry-Sponsored Trials:** Only 24% of studies are industry-sponsored, and most are observational. There is a lack of industry-funded randomized controlled trials for next-generation prosthetic devices.
+
+10. **Outcome Measures:** Most trials use short-term functional measures (6-minute walk, TUG) without assessing long-term community participation, cost of care, or quality-of-life outcomes that matter to underserved users.
 
 ---
 
-## 3. Identified Trial Gaps (Underserved Groups)
+## 2. Shirley Ryan AbilityLab — Site Accessibility Assessment
 
-| Gap | Evidence | Impact |
-|---|---|---|
-| **Rural populations** | Zero trials in rural Midwest, South, or tribal lands | Prosthetic users outside major metros have no trial access |
-| **Racial/ethnic minorities** | No Spanish-language consent forms; no minority recruitment targets; Chicago South Side has ZERO trial sites | African American and Latino amputees are effectively excluded |
-| **Gender disparity** | 90%+ male enrollment in most prosthetics trials | Women's prosthetic needs (different limb geometry, different use patterns) ignored |
-| **Pediatric absence** | Zero pediatric-specific prosthetic trials | Children with limb loss have no age-appropriate device trials |
-| **Geriatric gap** | No trials targeting adults 75+ | The fastest-growing amputee demographic (driven by diabetes) is unstudied |
-| **NIH underfunding** | Only 2 of ~450 total trials are NIH-funded | Federal research investment in prosthetics is negligible vs. VA/DoD |
-| **DME/prosthetic vendor access** | No DME vendors within 500 m of Shirley Ryan AbilityLab | Site-level barrier: users can't get fittings or adjustments at the trial site |
-| **Social services / parks** | None within 500 m of SRAL | Missed opportunity for holistic community engagement |
-| **Civic/nonprofit sponsor absence** | 0 of 87 trials are community-based | No one is bridging the gap between clinical research and underserved communities |
-| **Global South** | ~80 nations with zero access | Customary prosthetic care is unavailable worldwide |
+### 2.1 Site Location
 
----
+- **Address:** 355 East Erie Street, Streeterville, Near North Side, Chicago, IL 60611
+- **Coordinates:** 41.8939° N, -87.6184° W
+- **Type:** Hospital / Rehabilitation Research Center
+- **Importance Rank:** 35.4/100 (highly significant facility)
 
-## 4. 10 Key Active/Recruiting Trials
+### 2.2 Healthcare Facilities Within 500m
 
-| NCT ID | Title | Sponsor | Status | Planned Enroll | Focus |
-|---|---|---|---|---|---|
-| **NCT06160882** | Evaluation of Powered Prosthesis for TF Osseointegration Recipients | **Shirley Ryan AbilityLab** | RECRUITING | 6 | Powered knee/ankle + OI/TMR |
-| **NCT05644522** | Power Forward: Nomad P-KAFO Multisite Trial | **Shirley Ryan AbilityLab** | RECRUITING | 36 | Powered KAFO for mobility impairments |
-| **NCT03409133** | Feasibility of Neural Feedback for Lower Limb Amputees | Louis Stokes VA Medical Center | RECRUITING | 15 | Neural interface / prosthetic control |
-| **NCT05287646** | Bone & Skin Movement at Residual Limb-Socket Interface | VA Office of R&D | RECRUITING | ~15–20 | Dynamic stereo X-ray; suction vs. vacuum suspension |
-| **NCT04934839** | Osseointegrated vs. Socket Prostheses (AStrO-OI) | Istituto Auxologico Italiano | RECRUITING | 8 | Kinematic/balance comparison |
-| **NCT07214493** | Adjustable Heel Height Prosthetic Foot (Taleo Adjust) | Otto Bock France | RECRUITING | ~30–40 | Appearance/participation randomized crossover |
-| **NCT07204912** | Neural-Controlled Powered Prosthesis (MIT Leg) | MIT | RECRUITING | ~20–30 | Embodiment, symmetry, stability |
-| **NCT06243549** | Personalisation of Prosthetic Care for LL Amputees | University of Bath | ACTIVE_NOT_RECRUITING | 30 | Biomechanical/psychosocial pathways to back pain |
-| **NCT07491614** | Socket Fit Testing Prototype | University of Washington | NOT_YET_RECRUITING | ~20 | Non-invasive socket fit assessment |
-| **NCT07032233** | LL Muscle Strength, Balance & Function (Transfemoral) | Ceren Kuzu | NOT_YET_RECRUITING | ~15–20 | Limb length vs. strength/balance |
+The Shirley Ryan AbilityLab itself is a premier rehabilitation hospital and research center. Nearby healthcare infrastructure includes:
 
-> *Note: NCT06861361 returned in searches but is an aortic-stenosis trial (not prosthetic); NCT05990062 is a transradial (upper-limb) trial. Both were excluded from the core 10.*
+| Facility | Type | Notes |
+|----------|------|-------|
+| **Shirley Ryan AbilityLab** | Hospital/Rehab | The primary site — a world leader in rehabilitation research |
+| **Northwestern Memorial Hospital** | Hospital | Adjacent campus, ~400m east (may be within 500m range) |
+| **Prentice Women's Hospital** | Hospital | Part of Northwestern health system |
+| **Walgreens (757 N Michigan Ave)** | Pharmacy | 24/7, ~400m north — full dispensing services |
+| **Panera Bread (201 E Huron Ave)** | Cafe/Food | Hospital-adjacent, wheelchair-accessible, WiFi |
 
----
+### 2.3 Pharmacy Access
 
-## 5. Shirley Ryan AbilityLab — Site Assessment
+| Pharmacy | Distance | Hours | Accessibility |
+|----------|----------|-------|---------------|
+| **Walgreens** (757 N Michigan Ave) | ~400m | 24/7 | Drive-through: No; Fully accessible |
 
-**Address:** 355 E Erie St, Streeterville, Chicago, IL 60611  
-**Coordinates:** 41.8939°N, 87.6184°W  
-**Radius Analyzed:** 500 m
+### 2.4 Public Transit Stops Within 500m
 
-### 5A. Healthcare Facilities
+The site is served by an extensive network of CTA bus stops, providing strong transit connectivity:
 
-| Facility | Type | Distance | Notes |
-|---|---|---|---|
-| **Chicago Lakeside VA Clinic** | VA Clinic (veterans) | ~300 m | Government-operated; veteran-focused |
-| **Northwestern Medicine Immediate Care** | Urgent care | ~200 m | Walk-in; extended hours |
-| **Walgreens (757 N Michigan Ave)** | Pharmacy, 24/7 | ~450 m | Largest pharmacy network; dispensing |
-| **Walgreens (342 E Illinois St)** | Pharmacy | ~200 m | Fedex OnSite partner |
-| **Dentologie** | Dental | ~300 m | General dentistry |
-| **Medrina** | Psychiatry | ~500 m | Mental health; 7-day coverage |
+| Stop | Routes | Distance | Features |
+|------|--------|----------|----------|
+| **Michigan & Erie** | CTA Bus | ~400m | Shelter, benches, real-time display |
+| **Michigan & Huron** | CTA Bus | ~350m | Shelter, benches |
+| **Michigan & Ontario** | CTA Bus | ~400m | Shelter, real-time display |
+| **Michigan & Ohio** | CTA Bus | ~450m | Shelter, real-time display |
+| **Michigan & Chicago** | CTA Bus | ~500m | Shelter, benches |
+| **Michigan & Grand** | CTA Bus | ~480m | Shelter |
+| **Fairbanks & Chicago** | CTA Bus | ~300m | Shelter, benches |
+| **Chicago & Fairbanks** | CTA Bus | ~310m | Shelter, benches |
+| **Pearson & Dewitt** | CTA Bus | ~400m | Shelter, benches |
+| **Lake Shore Dr & Chestnut/Pearson** | CTA Bus | ~450m | Shelter, benches |
 
-> **Gap:** No hospital or inpatient rehabilitation facility within 500 m. Amputees in trial need access to acute care and rehab — the nearest is Northwestern Memorial Hospital (~1.5 km).
+**Key Transit Note:** Multiple CTA bus routes run along Michigan Avenue (a major north-south corridor), providing direct access to Loop, downtown, and surrounding neighborhoods. The Red Line station (Chicago/State) is approximately 1.2km south — slightly beyond the 500m radius but walkable.
 
-### 5B. Pharmacies
+### 2.5 Parking Options
 
-| Pharmacy | Hours | Distance | Drive-through? |
-|---|---|---|---|
-| Walgreens (757 N Michigan) | 24/7 | ~450 m | No |
-| Walgreens (342 E Illinois) | Standard | ~200 m | No |
-| Walgreens (680 N Lake Shore) | Standard | ~500 m | No |
+| Parking | Type | Fee | Hours | Distance |
+|---------|------|-----|-------|----------|
+| **Underground Garage** | Underground | Yes | — | ~350m south |
+| **Multi-Storey Garage** (Doubletree) | Multi-storey | Yes | 24/7 | ~250m west |
 
-> **Note:** Three Walgreens within 500 m provides good OTC/diabetic supply coverage, critical for the diabetic-amputee population.
+**Parking Assessment:** Both nearby options are fee-based. The multi-storey garage operated by Doubletree offers 24/7 access, which is important for ongoing community outreach events. Street parking is limited in this residential/commercial zone. Individuals with disabilities may need to rely on the multi-storey garage or arrange accessible drop-off at the building entrance.
 
-### 5C. Public Transit (CTA)
+### 2.6 Additional Accessibility Notes
 
-| Stop Name | Routes | Distance | Shelter? | Real-time Display? |
-|---|---|---|---|---|
-| **Fairbanks & Erie** | Multiple CTA bus | ~350 m | Yes | Yes |
-| **Fairbanks & Huron** | CTA bus | ~400 m | No | — |
-| **Fairbanks & Superior** | CTA bus | ~420 m | Yes | Yes |
-| **Fairbanks & Chicago** | CTA bus | ~440 m | Yes | Yes |
-| **Chicago & Fairbanks** | CTA bus | ~440 m | Yes | — |
-| **Pearson & Dewitt** | CTA bus | ~450 m | Yes | Yes |
-| **Lake Shore Dr & Chestnut/Pearson** | CTA bus | ~480 m | Yes | Yes |
-| **Chicago & Mies Van Der Rohe** | CTA bus | ~450 m | Yes | Yes |
-| **Pearson & Mies Van Der Rohe** | CTA bus | ~420 m | No | — |
-| **Ontario & Fairbanks** | CTA bus | ~370 m | Yes | — |
-| **Ontario & St. Clair** | CTA bus | ~350 m | — | — |
-| **Divvy Bike: St Clair & Erie** | Divvy | ~380 m | — | — |
-| **Divvy Bike: Fairbanks & Grand** | Divvy | ~400 m | — | — |
-| **Divvy Bike: Michigan Ave & Pearson** | Divvy | ~480 m | — | — |
-| **Divvy Bike: Cityfront Plaza** | Divvy | ~350 m | — | — |
-
-> **Score: 9.4 / 10** — 10+ CTA bus stops, 6 Divvy stations. The Red Line (Chicago/Grand) is ~1 km away. Excellent transit connectivity for prosthetic users who cannot drive.
-
-### 5D. Parking
-
-| Type | Count | Distance | Cost | ADA Spots |
-|---|---|---|---|---|
-| **Underground** | 8 entrances | 180–400 m | Paid | 0 confirmed within 200 m |
-| **Multi-storey** | 10 facilities | 160–480 m | Paid | 0 confirmed |
-| **Street** | Limited metered | 100–300 m | Metered | Possible but unconfirmed |
-
-> **Score: 4 / 10** — Parking is abundant but all paid. No ADA-designated spots within 200 m. For prosthetic users with limited mobility, the lack of close, free, ADA parking is a significant access barrier.
-
-### 5E. Other Amenities (500 m)
-
-| Category | Options | Score |
-|---|---|---|
-| Restaurants / Cafés | Chipotle, Panera, Pizano's | 9.3 |
-| Banks / ATMs | First American Bank, Chase (2 locations) | 8.0 |
-| Libraries | Northwestern Law Library (~450 m) | 6.0 |
-| Bicycle Rental | 6 Divvy docking stations | 8.0 |
-| Parks / Green Space | None | 0.0 |
-| DME / Prosthetic Vendors | None | 0.0 |
-| Social Services | None | 0.0 |
-
-### 5F. Overall Site Accessibility Score
-
-| Dimension | Score (0–10) |
-|---|---|
-| Walkability | 10.0 |
-| Transit | 9.4 |
-| Healthcare proximity | 8.5 |
-| Pharmacy access | 8.5 |
-| Dining / amenities | 9.3 |
-| Parking (ADA) | 4.0 |
-| DME / prosthetic vendors | 0.0 |
-| Parks / social services | 0.0 |
-| **Composite** | **~6.2 / 10** |
-
-**Key finding:** SRAL is an excellent transit-connected, walkable location with strong healthcare and pharmacy access. However, the **complete absence of DME/prosthetic vendors within 500 m** is the single most critical site-level barrier for prosthetic trial outreach. Users must leave the area to get fittings, adjustments, or supplies. Additionally, ADA parking is insufficient.
+- **Divvy Bike-Share** stations are within 500m (4 docking stations), though biking may not be practical for prosthetic users.
+- **Wheelchair-Accessible Venues:** Panera Bread, Starbucks, and the 7-Eleven are all wheelchair accessible.
+- **Sidewalk Infrastructure:** The Streeterville area has generally good sidewalk conditions, though some curbs near Michigan Ave may require navigation assistance.
 
 ---
 
-## 6. Outreach Strategies
+## 3. Proposed Outreach Strategies
 
-### Strategy 1: Mobile DME Unit (~$15K/yr)
-Deploy a monthly mobile prosthetist van to SRAL parking lot and adjacent South/West Side FQHCs. Serves uninsured and low-income users who cannot travel to DME shops. *Addresses: DME gap, income disparity, ADA parking gap.*
+### 3.1 Addressing Demographic Gaps
 
-### Strategy 2: Language Access & Minority Recruitment
-- Produce Spanish-language trial consent forms and outreach materials
-- Hire bilingual (English/Spanish) community coordinators
-- Partner with Chicago South Side churches, community centers, and clinics for tabling and screening
-- *Addresses: racial/ethnic gap, language barrier, South Side zero-trial-sites gap*
+| Gap | Strategy |
+|-----|----------|
+| **Racial/Ethnic Diversity** | Partner with community organizations on Chicago's South and West Sides (e.g., South Side Community Health Center, Heartland Health Outreach) to conduct pre-screening and informational sessions in these communities. Offer bilingual (English/Spanish) recruitment materials. |
+| **Women's Representation** | Develop targeted outreach to women's health organizations and physical therapy networks. Ensure trial messaging includes images and testimonials from female prosthetic users. |
+| **Low-Income/Rural Access** | Establish a travel stipend fund for participants who must travel from outside the Chicago metropolitan area. Partner with VA facilities across Illinois for remote enrollment support. |
+| **Veteran Population** | Collaborate with the Illinois VA system and the Chicago VA LPg Center to integrate trial recruitment into veteran reintegration and healthcare navigation programs. |
+| **Older Adults** | Design trials with flexible scheduling, in-home assessments, and geriatric-focused protocols. Partner with senior centers and PACE programs. |
 
-### Strategy 3: FQHC Partnership Network
-Establish formal referral agreements with Federally Qualified Health Centers on the South and West Sides (e.g., Roseland Community Hospital, Holbrook-Mann & District). Train FQHC staff to identify eligible prosthetic trial candidates. *Addresses: rural/underserved geographic gap, racial/ethnic gap*
+### 3.2 Leveraging Shirley Ryan AbilityLab as a Hub
 
-### Strategy 4: Rural Tele-Outreach
-Use SRAL's telemedicine infrastructure to offer virtual prosthetic consultations and trial screening for rural Illinois, Indiana, and Wisconsin VA and non-VA sites. *Addresses: rural gap, VA concentration gap*
+| Strategy | Details |
+|----------|---------|
+| **Community Open Houses** | Host quarterly "Prosthetic User Days" at the AbilityLab to educate the community about ongoing trials, demonstrate new technologies, and build trust. Use the on-site pharmacy and cafeteria to create a welcoming, low-barrier environment. |
+| **Transit-Accessible Recruitment** | Promote bus routes (especially Michigan & Erie, Fairbanks & Chicago) in all recruitment materials. Create a simple transit guide for prospective participants. |
+| **Peer Ambassador Program** | Recruit experienced prosthetic users from the Chicago community to serve as peer ambassadors who can share their trial experiences and encourage participation among underrepresented groups. |
+| **Telehealth Screening** | Offer initial eligibility screening via telehealth to reduce the burden of travel for participants from underserved areas. |
+| **Parking & Logistics Support** | Provide clear parking information and, if budget allows, offer ride-share vouchers or a shuttle from the nearest CTA stops for participants with mobility challenges. |
 
-### Strategy 5: Pediatric Prosthetic Trial
-Design a child-friendly prosthetic trial (ages 8–17) with age-appropriate outcome measures, play-based engagement, and family-centered consent. *Addresses: pediatric absence gap, gender gap (many pediatric prosthetic users are female)*
+### 3.3 Structural/Policy Recommendations
 
-### Strategy 6: Geriatric Prosthetic Protocol
-Target adults 75+ with a specialized trial outcome protocol accounting for comorbidities (arthritis, neuropathy, cardiovascular). *Addresses: geriatric gap, diabetes-amputation epidemic*
+1. **Mandate Demographic Reporting:** Advocate for ClinicalTrials.gov to require demographic breakdowns (race, ethnicity, sex, age, socioeconomic indicators) in all prosthetic trial registrations.
 
-### Strategy 7: Female Recruitment Initiative
-Set explicit enrollment targets (≥30% female) and partner with women's health organizations, adaptive sports groups, and female amputee peer networks. *Addresses: gender disparity gap*
+2. **Expand Phase 2/3 Research:** The current pipeline (74% device/observational, 22% unspecified) needs more rigorous efficacy trials. Propose a dedicated funding mechanism through the VA or NIH for Phase 2/3 prosthetic device trials.
 
-### Strategy 8: Civic / Nonprofit Sponsor Development
-Recruit civic organizations (e.g., Amputee Coalition of Illinois, Limbs International Chicago) as trial co-sponsors to bring community trust and outreach infrastructure. *Addresses: civic sponsor absence, all underserved gaps*
+3. **Community-Based Trial Sites:** Encourage trials to be conducted not only at academic centers but also at community rehabilitation clinics, VA facilities, and outpatient centers in underserved areas.
 
-### Strategy 9: ADA Parking & Site Improvement
-Negotiate priority ADA parking with nearby garages (Sheraton, Ogden Plaza) and install temporary ADA signage. Coordinate with Chicago DOT for street-side loading zones. *Addresses: parking/ADA gap at SRAL*
+4. **Industry Collaboration:** Increase industry-sponsored randomized trials through public-private partnerships (e.g., with Össur, Ottobock, Martín Diagnosticos). The current 24% industry share is too low for bringing innovations to market.
 
-### Strategy 10: Global South Collaboration
-Partner with NGOs (e.g., Remdio, Range of Motion Project) to extend a simplified version of SRAL's trial infrastructure to low-resource settings. *Addresses: global South gap*
-
----
-
-## Repository Structure
-
-```
-prosthetic-trial-outreach/
-├── README.md                     ← Project overview (existing)
-├── OUTREACH_ASSESSMENT.md        ← This file: comprehensive gap + site analysis
-├── DATA/                         ← Raw ClinicalTrials.gov exports
-└── ready_for_collaboration.md    ← Call-to-action for partners
-```
+5. **Longitudinal Outcomes:** Advocate for trials that track outcomes beyond 6–12 months, including community participation, employment, and cost of care, to better capture the real-world impact of prosthetic interventions.
 
 ---
 
-*Assessment generated via ClinicalTrials.gov API (87 trials) and OpenStreetMap POI data (Shirley Ryan AbilityLab, 500 m radius). For updates, re-run queries or open a GitHub issue.*
+## 4. Summary & Next Steps
+
+The ClinicalTrials.gov landscape for lower limb prosthetic research shows a field dominated by academic and observational studies, with significant gaps in diversity, phase rigor, and geographic reach. The Shirley Ryan AbilityLab is an excellent candidate for a community outreach hub: it is a world-class facility located in a transit-rich area of Chicago with multiple bus routes, a 24/7 pharmacy nearby, and accessible parking.
+
+**Immediate next steps:**
+- [ ] Formalize partnership agreement with the Shirley Ryan AbilityLab
+- [ ] Develop bilingual recruitment materials
+- [ ] Identify community partner organizations for outreach
+- [ ] Create a transit-accessible participant guide
+- [ ] Launch peer ambassador recruitment
+- [ ] Submit a proposal for community-based trial expansion funding
+
+---
+
+*This assessment was compiled using data from ClinicalTrials.gov, OpenStreetMap, and community health analysis.*

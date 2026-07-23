@@ -11,6 +11,7 @@ Last updated: July 2026 — based on ClinicalTrials.gov search of 43 active/rece
 - 📋 **Trial Gap Analysis (July 2026):** [OUTREACH_ANALYSIS_JULY2026.md](OUTREACH_ANALYSIS_JULY2026.md)
 - 📋 **Outreach Strategy & Action Plan:** [OUTREACH_STRATEGY_2026.md](OUTREACH_STRATEGY_2026.md)
 - 📋 **FINAL Comprehensive Assessment:** [PROSTHETIC_TRIAL_OUTREACH_FINAL.md](PROSTHETIC_TRIAL_OUTREACH_FINAL.md)
+- 📋 **Trial Gaps & SRAL Access (July 2026):** [TRIAL_GAPS_AND_SRAL_ACCESS.md](TRIAL_GAPS_AND_SRAL_ACCESS.md) — 10 active trials, enrollment trend analysis, SRAL site assessment, and 8 proposed outreach strategies
 
 ## Key Findings at a Glance
 
@@ -89,6 +90,7 @@ Last updated: July 2026 — based on ClinicalTrials.gov search of 43 active/rece
 - `OUTREACH_ANALYSIS_JULY2026.md` — ClinicalTrials.gov analysis
 - `OUTREACH_ASSESSMENT_2026.md` — Broader assessment
 - `PROSTHETIC_TRIAL_OUTREACH_FINAL.md` — Final comprehensive report
+- `TRIAL_GAPS_AND_SRAL_ACCESS.md` — **NEW** 10 active trials detailed, enrollment trend analysis, SRAL site assessment, and 8 outreach strategies
 
 ---
 
